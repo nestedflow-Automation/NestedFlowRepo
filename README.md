@@ -45,6 +45,7 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 - Integration with GitHub
 - File/database or Github based script storage
 - Supports C# scripting to support extended scenarios
+- Command line execution
 
 # Development Methodology
 - Supports BDD,keyword or Data driven approaches
