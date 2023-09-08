@@ -4,7 +4,7 @@ NestedFlow Automation is a graphical, flow chart linke Test automation framework
 # What is Test Automation Framework
 It is a group of components that work towards executing test cases and facilitate comprehensive reporting of test results
 
-# Constituents of test automation framework
+# Constituents of Test Automation Framework
 - AUtomation technology that will help operate UI and other components
 - Object Spy to capture testable component properties
 - Object information management
@@ -38,7 +38,7 @@ Supports basic OCR features and also performs action suggestions for HTML object
 # Data Management
 Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters 
 
-# Modernization and extension
+# Modernization and Extension
 - Easy to reuse components
 - Test cases look like flow chart so easy to understand and maintain
 - Centralized object Repo
