@@ -53,4 +53,4 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 - Tool doesnt provide traditional record and play instead it provides the reverse. Simulation of action on screen so that the derived script is correct the first time itself without much modifications
 
 # Software link
-https://drive.google.com/file/d/1aMkmc9Qwu58l74WEU6hlEnTT84rTkvlJ/view?usp=sharing
+https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.zip/download
