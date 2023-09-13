@@ -1,0 +1,2204 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>65</Column1>
+    <Y1>27</Y1>
+    <Width>58</Width>
+    <Height>58</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>94</XMid1>
+    <YMid1>27</YMid1>
+    <XMid2>123</XMid2>
+    <YMid2>56</YMid2>
+    <XMid3>94</XMid3>
+    <YMid3>85</YMid3>
+    <XMid4>65</XMid4>
+    <YMid4>56</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PNAME&gt;AIREAD&lt;/PNAME&gt;
+    &lt;PVALUE&gt;?&lt;/PVALUE&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>Code</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Start</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>952</Column1>
+    <Y1>52</Y1>
+    <Width>68</Width>
+    <Height>65</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>986</XMid1>
+    <YMid1>52</YMid1>
+    <XMid2>1020</XMid2>
+    <YMid2>84</YMid2>
+    <XMid3>986</XMid3>
+    <YMid3>117</YMid3>
+    <XMid4>952</XMid4>
+    <YMid4>84</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Code</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 2</StepName>
+    <Column1>55</Column1>
+    <Y1>230</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will  Execute External Program: calc.exe</Description>
+    <Expected>External Program Execution Is Successful</Expected>
+    <Actual />
+    <XMid1>95</XMid1>
+    <YMid1>230</YMid1>
+    <XMid2>135</XMid2>
+    <YMid2>270</YMid2>
+    <XMid3>95</XMid3>
+    <YMid3>310</YMid3>
+    <XMid4>55</XMid4>
+    <YMid4>270</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>DEXETOOL</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Start</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;ProgName&gt;calc.exe&lt;/ProgName&gt;
+    &lt;ArgName /&gt;
+    &lt;Shellopt&gt;FALSE&lt;/Shellopt&gt;
+    &lt;Runasuser&gt;FALSE&lt;/Runasuser&gt;
+    &lt;UserName /&gt;
+    &lt;Password /&gt;
+    &lt;Domain /&gt;
+    &lt;WaitFComp&gt;FALSE&lt;/WaitFComp&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>94</Column1>
+    <Y1>85</Y1>
+    <Width>95</Width>
+    <Height>230</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Start</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>55</Column1>
+    <Y1>593</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This step captures windows desktop</Description>
+    <Expected>Windows desktop captured successfully</Expected>
+    <Actual />
+    <XMid1>95</XMid1>
+    <YMid1>593</YMid1>
+    <XMid2>135</XMid2>
+    <YMid2>633</YMid2>
+    <XMid3>95</XMid3>
+    <YMid3>673</YMid3>
+    <XMid4>55</XMid4>
+    <YMid4>633</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>AUTOMATIONROOTELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Desktop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>95</Column1>
+    <Y1>310</Y1>
+    <Width>95</Width>
+    <Height>593</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Desktop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>261</Column1>
+    <Y1>594</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 4
+Action Name: Normal Window
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>301</XMid1>
+    <YMid1>594</YMid1>
+    <XMid2>341</XMid2>
+    <YMid2>634</YMid2>
+    <XMid3>301</XMid3>
+    <YMid3>674</YMid3>
+    <XMid4>261</XMid4>
+    <YMid4>634</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Normal Window&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 4</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Calculator&lt;/Name&gt;
+  &lt;AutomationId /&gt;
+  &lt;ProcessId&gt;18944&lt;/ProcessId&gt;
+  &lt;ControlType&gt;window&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;ApplicationFrameWindow&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;66502&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;WindowPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Window
+TransformPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Transform
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;Name&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Children&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;Y&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>135</Column1>
+    <Y1>633</Y1>
+    <Width>261</Width>
+    <Height>634</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>534</Column1>
+    <Y1>595</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 5
+Action Name: Button Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>574</XMid1>
+    <YMid1>595</YMid1>
+    <XMid2>614</XMid2>
+    <YMid2>635</YMid2>
+    <XMid3>574</XMid3>
+    <YMid3>675</YMid3>
+    <XMid4>534</XMid4>
+    <YMid4>635</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Button Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 5</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Seven&lt;/Name&gt;
+  &lt;AutomationId&gt;num7Button&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;18764&lt;/ProcessId&gt;
+  &lt;ControlType&gt;button&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;Button&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\group - 4\button - 7&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>341</Column1>
+    <Y1>634</Y1>
+    <Width>534</Width>
+    <Height>635</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>839</Column1>
+    <Y1>595</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 6
+Action Name: Button Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>879</XMid1>
+    <YMid1>595</YMid1>
+    <XMid2>919</XMid2>
+    <YMid2>635</YMid2>
+    <XMid3>879</XMid3>
+    <YMid3>675</YMid3>
+    <XMid4>839</XMid4>
+    <YMid4>635</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Button Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 6</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Plus&lt;/Name&gt;
+  &lt;AutomationId&gt;plusButton&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;18764&lt;/ProcessId&gt;
+  &lt;ControlType&gt;button&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;Button&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\group - 3\button - 3&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>614</Column1>
+    <Y1>635</Y1>
+    <Width>839</Width>
+    <Height>635</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>11</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 7</StepName>
+    <Column1>838</Column1>
+    <Y1>454</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 7
+Action Name: Button Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>878</XMid1>
+    <YMid1>454</YMid1>
+    <XMid2>918</XMid2>
+    <YMid2>494</YMid2>
+    <XMid3>878</XMid3>
+    <YMid3>534</YMid3>
+    <XMid4>838</XMid4>
+    <YMid4>494</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Button Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 7</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Nine&lt;/Name&gt;
+  &lt;AutomationId&gt;num9Button&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;18764&lt;/ProcessId&gt;
+  &lt;ControlType&gt;button&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;Button&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\group - 4\button - 9&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>879</Column1>
+    <Y1>595</Y1>
+    <Width>878</Width>
+    <Height>534</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>11</XMid1>
+    <YMid1>13</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 8</StepName>
+    <Column1>618</Column1>
+    <Y1>454</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 8
+Action Name: Button Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>658</XMid1>
+    <YMid1>454</YMid1>
+    <XMid2>698</XMid2>
+    <YMid2>494</YMid2>
+    <XMid3>658</XMid3>
+    <YMid3>534</YMid3>
+    <XMid4>618</XMid4>
+    <YMid4>494</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Button Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 8</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Equals&lt;/Name&gt;
+  &lt;AutomationId&gt;equalButton&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;18764&lt;/ProcessId&gt;
+  &lt;ControlType&gt;button&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;Button&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\group - 3\button - 4&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>838</Column1>
+    <Y1>494</Y1>
+    <Width>698</Width>
+    <Height>494</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>13</XMid1>
+    <YMid1>15</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 9</StepName>
+    <Column1>167</Column1>
+    <Y1>195</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 9
+Action Name: GetText
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual>MYANSWER1</Actual>
+    <XMid1>207</XMid1>
+    <YMid1>195</YMid1>
+    <XMid2>247</XMid2>
+    <YMid2>235</YMid2>
+    <XMid3>207</XMid3>
+    <YMid3>275</YMid3>
+    <XMid4>167</XMid4>
+    <YMid4>235</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;GetText&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 9</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Display is 16&lt;/Name&gt;
+  &lt;AutomationId&gt;CalculatorResults&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;11208&lt;/ProcessId&gt;
+  &lt;ControlType&gt;text&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName /&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\text - 1&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>462</Column1>
+    <Y1>354</Y1>
+    <Width>213</Width>
+    <Height>277</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>15</XMid1>
+    <YMid1>17</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 10</StepName>
+    <Column1>478</Column1>
+    <Y1>155</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Perform String Function: GetText And Validate (Contains) on Parameter: AIREAD</Description>
+    <Expected>String Functions Is Successful</Expected>
+    <Actual />
+    <XMid1>518</XMid1>
+    <YMid1>155</YMid1>
+    <XMid2>558</XMid2>
+    <YMid2>195</YMid2>
+    <XMid3>518</XMid3>
+    <YMid3>235</YMid3>
+    <XMid4>478</XMid4>
+    <YMid4>195</YMid4>
+    <YesBlock>23</YesBlock>
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PARAMETER_x0020_NAME&gt;AIREAD&lt;/PARAMETER_x0020_NAME&gt;
+    &lt;FUNCTION_x0020_NAME&gt;GetText And Validate (Contains)&lt;/FUNCTION_x0020_NAME&gt;
+    &lt;CHARACTER /&gt;
+    &lt;LENGTH /&gt;
+    &lt;START /&gt;
+    &lt;CONTAINS&gt;16&lt;/CONTAINS&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>STRINGFUNCTIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 10</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>AIREAD</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR8</StepName>
+    <Column1>236</Column1>
+    <Y1>193</Y1>
+    <Width>458</Width>
+    <Height>175</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>17</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR9</StepName>
+    <Column1>538</Column1>
+    <Y1>175</Y1>
+    <Width>647</Width>
+    <Height>101</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 11</StepName>
+    <Column1>644</Column1>
+    <Y1>44</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Log Message Entered Successfully</Description>
+    <Expected>Log message visible</Expected>
+    <Actual />
+    <XMid1>684</XMid1>
+    <YMid1>44</YMid1>
+    <XMid2>724</XMid2>
+    <YMid2>84</YMid2>
+    <XMid3>684</XMid3>
+    <YMid3>124</YMid3>
+    <XMid4>644</XMid4>
+    <YMid4>84</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>LOGFILEENTRY</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 11</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Success: Answer is 16 and it is what is expected</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 12</StepName>
+    <Column1>947</Column1>
+    <Y1>271</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Log message failure is displayed</Description>
+    <Expected>Log message is visible</Expected>
+    <Actual />
+    <XMid1>987</XMid1>
+    <YMid1>271</YMid1>
+    <XMid2>1027</XMid2>
+    <YMid2>311</YMid2>
+    <XMid3>987</XMid3>
+    <YMid3>351</YMid3>
+    <XMid4>947</XMid4>
+    <YMid4>311</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>LOGFILEERROR</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 12</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Error: Answer is Incorrect</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR10</StepName>
+    <Column1>498</Column1>
+    <Y1>135</Y1>
+    <Width>436</Width>
+    <Height>60</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR11</StepName>
+    <Column1>518</Column1>
+    <Y1>155</Y1>
+    <Width>482</Width>
+    <Height>51</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR12</StepName>
+    <Column1>558</Column1>
+    <Y1>195</Y1>
+    <Width>732</Width>
+    <Height>334</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>23</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>FAIL</NoBlock>
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR13</StepName>
+    <Column1>724</Column1>
+    <Y1>84</Y1>
+    <Width>952</Width>
+    <Height>84</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>22</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR14</StepName>
+    <Column1>987</Column1>
+    <Y1>271</Y1>
+    <Width>986</Width>
+    <Height>117</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>23</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 13</StepName>
+    <Column1>272</Column1>
+    <Y1>10</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows desktop captured</Description>
+    <Expected>Windows desktop captured successfully</Expected>
+    <Actual />
+    <XMid1>312</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>352</XMid2>
+    <YMid2>50</YMid2>
+    <XMid3>312</XMid3>
+    <YMid3>90</YMid3>
+    <XMid4>272</XMid4>
+    <YMid4>50</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>AUTOMATIONROOTELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Desktop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR15</StepName>
+    <Column1>207</Column1>
+    <Y1>195</Y1>
+    <Width>205</Width>
+    <Height>95</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>17</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 14</StepName>
+    <Column1>462</Column1>
+    <Y1>356</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Calculator
+Action Name: Close Window
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>502</XMid1>
+    <YMid1>356</YMid1>
+    <XMid2>542</XMid2>
+    <YMid2>396</YMid2>
+    <XMid3>502</XMid3>
+    <YMid3>436</YMid3>
+    <XMid4>462</XMid4>
+    <YMid4>396</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Close Window&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Calculator</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Calculator&lt;/Name&gt;
+  &lt;AutomationId /&gt;
+  &lt;ProcessId&gt;18944&lt;/ProcessId&gt;
+  &lt;ControlType&gt;window&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;
+  &lt;ClassName&gt;ApplicationFrameWindow&lt;/ClassName&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;66502&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;WindowPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Window
+TransformPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Transform
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;Name&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Children&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;Y&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR16</StepName>
+    <Column1>328</Column1>
+    <Y1>95</Y1>
+    <Width>502</Width>
+    <Height>356</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>29</XMid1>
+    <YMid1>31</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR17</StepName>
+    <Column1>373</Column1>
+    <Y1>195</Y1>
+    <Width>478</Width>
+    <Height>195</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>31</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 35</StepName>
+    <Column1>359</Column1>
+    <Y1>454</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+Step 35
+Action Name: OCR Read
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual>AIREAD</Actual>
+    <XMid1>399</XMid1>
+    <YMid1>454</YMid1>
+    <XMid2>439</XMid2>
+    <YMid2>494</YMid2>
+    <XMid3>399</XMid3>
+    <YMid3>534</YMid3>
+    <XMid4>359</XMid4>
+    <YMid4>494</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;OCR Read&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 35</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;
+&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;DisplayName /&gt;
+  &lt;Name&gt;Display is 16&lt;/Name&gt;
+  &lt;AutomationId&gt;CalculatorResults&lt;/AutomationId&gt;
+  &lt;ProcessId&gt;11208&lt;/ProcessId&gt;
+  &lt;ControlType&gt;text&lt;/ControlType&gt;
+  &lt;IsPassword&gt;False&lt;/IsPassword&gt;
+  &lt;FrameworkID&gt;XAML&lt;/FrameworkID&gt;
+  &lt;ClassName /&gt;
+  &lt;ItemStatus /&gt;
+  &lt;HelpText /&gt;
+  &lt;NativeWindowHandle&gt;0&lt;/NativeWindowHandle&gt;
+  &lt;IsControlElement&gt;True&lt;/IsControlElement&gt;
+  &lt;IsEnabled&gt;True&lt;/IsEnabled&gt;
+  &lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;
+  &lt;AccessKey /&gt;
+  &lt;AcceleratorKey /&gt;
+  &lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;
+  &lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;
+  &lt;LabeledBy /&gt;
+  &lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;
+  &lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+&lt;/Patterns&gt;
+  &lt;SupportedProperties /&gt;
+  &lt;Indentity&gt;AutomationID&lt;/Indentity&gt;
+  &lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;
+  &lt;SetCurrent&gt;N&lt;/SetCurrent&gt;
+  &lt;objNumber&gt;0&lt;/objNumber&gt;
+  &lt;Xpath&gt;Root\window / name / Calculator\window - 0\group - 0\text - 1&lt;/Xpath&gt;
+&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR18</StepName>
+    <Column1>618</Column1>
+    <Y1>494</Y1>
+    <Width>439</Width>
+    <Height>494</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>15</XMid1>
+    <YMid1>34</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR19</StepName>
+    <Column1>295</Column1>
+    <Y1>297</Y1>
+    <Width>213</Width>
+    <Height>277</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>34</XMid1>
+    <YMid1>17</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 38</StepName>
+    <Column1>412</Column1>
+    <Y1>242</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>452</XMid1>
+    <YMid1>242</YMid1>
+    <XMid2>492</XMid2>
+    <YMid2>282</YMid2>
+    <XMid3>452</XMid3>
+    <YMid3>322</YMid3>
+    <XMid4>412</XMid4>
+    <YMid4>282</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>IMAGETOTEXT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Object 38</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 39</StepName>
+    <Column1>407</Column1>
+    <Y1>342</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual>AIREAD</Actual>
+    <XMid1>447</XMid1>
+    <YMid1>342</YMid1>
+    <XMid2>487</XMid2>
+    <YMid2>382</YMid2>
+    <XMid3>447</XMid3>
+    <YMid3>422</YMid3>
+    <XMid4>407</XMid4>
+    <YMid4>382</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>IMAGETOTEXT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Tesseract</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>C:\KM\DisplayResult.jpeg</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR20</StepName>
+    <Column1>301</Column1>
+    <Y1>453</Y1>
+    <Width>407</Width>
+    <Height>382</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>34</XMid1>
+    <YMid1>38</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR21</StepName>
+    <Column1>312</Column1>
+    <Y1>330</Y1>
+    <Width>207</Width>
+    <Height>275</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>38</XMid1>
+    <YMid1>17</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR22</StepName>
+    <Column1>312</Column1>
+    <Y1>330</Y1>
+    <Width>205</Width>
+    <Height>95</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>38</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 42</StepName>
+    <Column1>164</Column1>
+    <Y1>290</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Perform String Function: Remove Lines on Parameter: AIREAD</Description>
+    <Expected>String Functions Is Successful</Expected>
+    <Actual>AIREAD</Actual>
+    <XMid1>204</XMid1>
+    <YMid1>290</YMid1>
+    <XMid2>244</XMid2>
+    <YMid2>330</YMid2>
+    <XMid3>204</XMid3>
+    <YMid3>370</YMid3>
+    <XMid4>164</XMid4>
+    <YMid4>330</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PARAMETER_x0020_NAME&gt;AIREAD&lt;/PARAMETER_x0020_NAME&gt;
+    &lt;FUNCTION_x0020_NAME&gt;Remove Lines&lt;/FUNCTION_x0020_NAME&gt;
+    &lt;CHARACTER /&gt;
+    &lt;LENGTH /&gt;
+    &lt;START /&gt;
+    &lt;CONTAINS xml:space="preserve"&gt; &lt;/CONTAINS&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>STRINGFUNCTIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Remove Lines</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>AIREAD</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR23</StepName>
+    <Column1>407</Column1>
+    <Y1>382</Y1>
+    <Width>244</Width>
+    <Height>330</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>38</XMid1>
+    <YMid1>42</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR24</StepName>
+    <Column1>204</Column1>
+    <Y1>290</Y1>
+    <Width>205</Width>
+    <Height>95</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>42</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 43</StepName>
+    <Column1>643</Column1>
+    <Y1>270</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Perform Set Value Or Compare  on Parameter: AIREAD Value: 16</Description>
+    <Expected>Parameter Operation Is Successful</Expected>
+    <Actual />
+    <XMid1>683</XMid1>
+    <YMid1>270</YMid1>
+    <XMid2>723</XMid2>
+    <YMid2>310</YMid2>
+    <XMid3>683</XMid3>
+    <YMid3>350</YMid3>
+    <XMid4>643</XMid4>
+    <YMid4>310</YMid4>
+    <YesBlock>22</YesBlock>
+    <NoBlock>16</NoBlock>
+    <AnyBlock>IFTABPARAMVAL</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 43</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>AIREAD</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR25</StepName>
+    <Column1>542</Column1>
+    <Y1>396</Y1>
+    <Width>643</Width>
+    <Height>310</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>31</XMid1>
+    <YMid1>45</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR26</StepName>
+    <Column1>532</Column1>
+    <Y1>160</Y1>
+    <Width>442</Width>
+    <Height>91</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>45</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Success</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR27</StepName>
+    <Column1>538</Column1>
+    <Y1>180</Y1>
+    <Width>442</Width>
+    <Height>91</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>45</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR28</StepName>
+    <Column1>723</Column1>
+    <Y1>310</Y1>
+    <Width>947</Width>
+    <Height>311</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>45</XMid1>
+    <YMid1>23</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>FAIL</NoBlock>
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Fail</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR29</StepName>
+    <Column1>683</Column1>
+    <Y1>270</Y1>
+    <Width>684</Width>
+    <Height>124</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>45</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Pass</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 52</StepName>
+    <Column1>156</Column1>
+    <Y1>211</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Perform String Function: Extract Number on Parameter: AIREAD</Description>
+    <Expected>String Functions Is Successful</Expected>
+    <Actual>AIREAD</Actual>
+    <XMid1>196</XMid1>
+    <YMid1>211</YMid1>
+    <XMid2>236</XMid2>
+    <YMid2>251</YMid2>
+    <XMid3>196</XMid3>
+    <YMid3>291</YMid3>
+    <XMid4>156</XMid4>
+    <YMid4>251</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PARAMETER_x0020_NAME&gt;AIREAD&lt;/PARAMETER_x0020_NAME&gt;
+    &lt;FUNCTION_x0020_NAME&gt;Extract Number&lt;/FUNCTION_x0020_NAME&gt;
+    &lt;CHARACTER /&gt;
+    &lt;LENGTH /&gt;
+    &lt;START /&gt;
+    &lt;CONTAINS xml:space="preserve"&gt; &lt;/CONTAINS&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>STRINGFUNCTIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Extract Number</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>AIREAD</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR30</StepName>
+    <Column1>204</Column1>
+    <Y1>290</Y1>
+    <Width>205</Width>
+    <Height>229</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>42</XMid1>
+    <YMid1>51</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR31</StepName>
+    <Column1>246</Column1>
+    <Y1>213</Y1>
+    <Width>328</Width>
+    <Height>95</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>51</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR32</StepName>
+    <Column1>407</Column1>
+    <Y1>382</Y1>
+    <Width>205</Width>
+    <Height>229</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>38</XMid1>
+    <YMid1>51</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR33</StepName>
+    <Column1>328</Column1>
+    <Y1>453</Y1>
+    <Width>246</Width>
+    <Height>293</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>34</XMid1>
+    <YMid1>51</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR34</StepName>
+    <Column1>502</Column1>
+    <Y1>356</Y1>
+    <Width>643</Width>
+    <Height>310</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>31</XMid1>
+    <YMid1>45</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR35</StepName>
+    <Column1>399</Column1>
+    <Y1>454</Y1>
+    <Width>236</Width>
+    <Height>251</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>34</XMid1>
+    <YMid1>51</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Extract
+Number</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR36</StepName>
+    <Column1>196</Column1>
+    <Y1>211</Y1>
+    <Width>272</Width>
+    <Height>50</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>51</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR37</StepName>
+    <Column1>312</Column1>
+    <Y1>90</Y1>
+    <Width>462</Width>
+    <Height>396</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>29</XMid1>
+    <YMid1>31</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 61</StepName>
+    <Column1>102</Column1>
+    <Y1>315</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>142</XMid1>
+    <YMid1>315</YMid1>
+    <XMid2>182</XMid2>
+    <YMid2>355</YMid2>
+    <XMid3>142</XMid3>
+    <YMid3>395</YMid3>
+    <XMid4>102</XMid4>
+    <YMid4>355</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Start Windows Calculator program</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 62</StepName>
+    <Column1>611</Column1>
+    <Y1>357</Y1>
+    <Width>156</Width>
+    <Height>63</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>689</XMid1>
+    <YMid1>357</YMid1>
+    <XMid2>767</XMid2>
+    <YMid2>388</YMid2>
+    <XMid3>689</XMid3>
+    <YMid3>420</YMid3>
+    <XMid4>611</XMid4>
+    <YMid4>388</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Validate Results</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
