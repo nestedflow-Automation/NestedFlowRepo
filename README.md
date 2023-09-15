@@ -46,6 +46,7 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 - File/database or Github based script storage
 - Supports C# scripting to support extended scenarios
 - Command line execution
+- Parallel Execution Of Test Cases
 
 # Development Methodology
 - Supports BDD,keyword or Data driven approaches
