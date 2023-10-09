@@ -1,0 +1,1081 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>101</Column1>
+    <Y1>56</Y1>
+    <Width>65</Width>
+    <Height>51</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>133</XMid1>
+    <YMid1>56</YMid1>
+    <XMid2>166</XMid2>
+    <YMid2>81</YMid2>
+    <XMid3>133</XMid3>
+    <YMid3>107</YMid3>
+    <XMid4>101</XMid4>
+    <YMid4>81</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Code</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Start</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 2</StepName>
+    <Column1>118</Column1>
+    <Y1>194</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLLink::Sign In
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>158</XMid1>
+    <YMid1>194</YMid1>
+    <XMid2>198</XMid2>
+    <YMid2>234</YMid2>
+    <XMid3>158</XMid3>
+    <YMid3>274</YMid3>
+    <XMid4>118</XMid4>
+    <YMid4>234</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+&lt;Table1&gt;
+&lt;Action&gt;Click&lt;/Action&gt;&lt;Value&gt;&lt;/Value&gt;&lt;/Table1&gt;&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLLink::Sign In</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;JPetStore Demo&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Sign In&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Sign In&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;a href="/account/signonForm"&amp;gt;Sign In&amp;lt;/a&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Sign In&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;a&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;890&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;342&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;50&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;17&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;890&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;342&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[1]/div[2]/div[1]/a[2]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[1]/div[2]/div[1]/a[2]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;html:nth-of-type(1)&amp;gt;a:nth-of-type(2)&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;https://jpetstore.aspectran.com/account/signonForm&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLLink::Sign In&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>118</Column1>
+    <Y1>314</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLEdit::username
+Action Name: EnterText
+Action Value: j2ee</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>158</XMid1>
+    <YMid1>314</YMid1>
+    <XMid2>198</XMid2>
+    <YMid2>354</YMid2>
+    <XMid3>158</XMid3>
+    <YMid3>394</YMid3>
+    <XMid4>118</XMid4>
+    <YMid4>354</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+&lt;Table1&gt;
+&lt;Action&gt;EnterText&lt;/Action&gt;&lt;Value&gt;j2ee&lt;/Value&gt;&lt;/Table1&gt;&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLEdit::username</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;JPetStore Demo&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;input type="text" name="username" value="j2ee"&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;text&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;input&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;452&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;91&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;416&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;39&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;j2ee&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;744&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;512&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;username&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[2]/div[1]/form[1]/div[1]/label[1]/input[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;//input[@name='username']&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;input[name='username']&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLEdit::username&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>158</Column1>
+    <Y1>274</Y1>
+    <Width>158</Width>
+    <Height>314</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>118</Column1>
+    <Y1>434</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLPassword::password
+Action Name: EnterText
+Action Value: j2ee</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>158</XMid1>
+    <YMid1>434</YMid1>
+    <XMid2>198</XMid2>
+    <YMid2>474</YMid2>
+    <XMid3>158</XMid3>
+    <YMid3>514</YMid3>
+    <XMid4>118</XMid4>
+    <YMid4>474</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+&lt;Table1&gt;
+&lt;Action&gt;EnterText&lt;/Action&gt;&lt;Value&gt;j2ee&lt;/Value&gt;&lt;/Table1&gt;&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLPassword::password</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;JPetStore Demo&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;input type="password" name="password" value="j2ee"&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;password&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;input&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;452&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;173&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;416&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;39&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;j2ee&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;744&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;594&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;password&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[2]/div[1]/form[1]/div[1]/label[2]/input[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;//input[@name='password']&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;input[name='password']&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLPassword::password&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>158</Column1>
+    <Y1>394</Y1>
+    <Width>158</Width>
+    <Height>434</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>118</Column1>
+    <Y1>554</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLButton::Login
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>158</XMid1>
+    <YMid1>554</YMid1>
+    <XMid2>198</XMid2>
+    <YMid2>594</YMid2>
+    <XMid3>158</XMid3>
+    <YMid3>634</YMid3>
+    <XMid4>118</XMid4>
+    <YMid4>594</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+&lt;Table1&gt;
+&lt;Action&gt;Click&lt;/Action&gt;&lt;Value&gt;&lt;/Value&gt;&lt;/Table1&gt;&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLButton::Login</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;JPetStore Demo&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;button&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Login&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Login&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;button type="submit" class="button"&amp;gt;Login&amp;lt;/button&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Login&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;submit&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;button&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;627&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;228&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;66&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;41&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;918&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;649&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[2]/div[1]/form[1]/div[1]/div[1]/button[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/section[1]/div[2]/div[2]/div[1]/form[1]/div[1]/div[1]/button[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;html:nth-of-type(1)&amp;gt;button:nth-of-type(1)&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLButton::Login&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>158</Column1>
+    <Y1>514</Y1>
+    <Width>158</Width>
+    <Height>554</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>133</Column1>
+    <Y1>107</Y1>
+    <Width>158</Width>
+    <Height>194</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>383</Column1>
+    <Y1>527</Y1>
+    <Width>59</Width>
+    <Height>58</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>412</XMid1>
+    <YMid1>527</YMid1>
+    <XMid2>442</XMid2>
+    <YMid2>556</YMid2>
+    <XMid3>412</XMid3>
+    <YMid3>585</YMid3>
+    <XMid4>383</XMid4>
+    <YMid4>556</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Code</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Stop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>198</Column1>
+    <Y1>594</Y1>
+    <Width>383</Width>
+    <Height>556</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 13</StepName>
+    <Column1>261</Column1>
+    <Y1>669</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 1</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  1 Seconds</Expected>
+    <Actual />
+    <XMid1>301</XMid1>
+    <YMid1>669</YMid1>
+    <XMid2>341</XMid2>
+    <YMid2>709</YMid2>
+    <XMid3>301</XMid3>
+    <YMid3>749</YMid3>
+    <XMid4>261</XMid4>
+    <YMid4>709</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Step 13</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>1</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>198</Column1>
+    <Y1>594</Y1>
+    <Width>301</Width>
+    <Height>669</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>12</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>301</Column1>
+    <Y1>669</Y1>
+    <Width>412</Width>
+    <Height>585</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>12</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
