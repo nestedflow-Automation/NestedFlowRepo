@@ -60,3 +60,5 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 # Software link
 https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.msi/download
 
+# Contact
+nestedflowautomation@gmail.com
