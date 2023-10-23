@@ -1,6 +1,6 @@
 # NestedFlow- Automation
-NestedFlow Automation is a graphical, flow chart linke Test automation framework to build scalable, reusable, cheaper automation test cases and easily manage them
-The test scripts are represented in an easy to understand flowchart like format which will make it easy to build and maintain test cases
+NestedFlow Automation is a graphical, flow chart linke Test automation framework to build scalable, reusable automation test cases and easily manage them. 
+The test scripts are represented in an easy to understand flowchart like format which will make it easy to build/understand  test case flow. 
 
 Link for introductory Video link: https://www.youtube.com/watch?v=Pm7px2cduqw
 
