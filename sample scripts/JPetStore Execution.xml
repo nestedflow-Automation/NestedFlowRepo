@@ -1,0 +1,426 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Step 2</StepName>
+    <Column1>218</Column1>
+    <Y1>176</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>258</XMid1>
+    <YMid1>176</YMid1>
+    <XMid2>298</XMid2>
+    <YMid2>216</YMid2>
+    <XMid3>258</XMid3>
+    <YMid3>256</YMid3>
+    <XMid4>218</XMid4>
+    <YMid4>216</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>INLINEFLOW</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>69</Column1>
+    <Y1>110</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>109</XMid1>
+    <YMid1>110</YMid1>
+    <XMid2>149</XMid2>
+    <YMid2>150</YMid2>
+    <XMid3>109</XMid3>
+    <YMid3>190</YMid3>
+    <XMid4>69</XMid4>
+    <YMid4>150</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Start</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>356</Column1>
+    <Y1>204</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>396</XMid1>
+    <YMid1>204</YMid1>
+    <XMid2>436</XMid2>
+    <YMid2>244</YMid2>
+    <XMid3>396</XMid3>
+    <YMid3>284</YMid3>
+    <XMid4>356</XMid4>
+    <YMid4>244</YMid4>
+    <YesBlock />
+    <NoBlock>{:GITHUBTOKEN}</NoBlock>
+    <AnyBlock>INLINEFLOW</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>OpenJPetStore</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/OpenJPetStore%2Exml?ref=main</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>149</Column1>
+    <Y1>150</Y1>
+    <Width>396</Width>
+    <Height>204</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+OpenJPetStore</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>357</Column1>
+    <Y1>399</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>397</XMid1>
+    <YMid1>399</YMid1>
+    <XMid2>437</XMid2>
+    <YMid2>439</YMid2>
+    <XMid3>397</XMid3>
+    <YMid3>479</YMid3>
+    <XMid4>357</XMid4>
+    <YMid4>439</YMid4>
+    <YesBlock />
+    <NoBlock>{:GITHUBTOKEN}</NoBlock>
+    <AnyBlock>INLINEFLOW</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>LoginJPetStore</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/LoginJPetStore%2Exml?ref=main</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>663</Column1>
+    <Y1>258</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>703</XMid1>
+    <YMid1>258</YMid1>
+    <XMid2>743</XMid2>
+    <YMid2>298</YMid2>
+    <XMid3>703</XMid3>
+    <YMid3>338</YMid3>
+    <XMid4>663</XMid4>
+    <YMid4>298</YMid4>
+    <YesBlock />
+    <NoBlock>{:GITHUBTOKEN}</NoBlock>
+    <AnyBlock>INLINEFLOW</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>DogItemPick</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/DogItemPick%2Exml?ref=main</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>396</Column1>
+    <Y1>284</Y1>
+    <Width>397</Width>
+    <Height>399</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+LoginJPetStore</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>437</Column1>
+    <Y1>439</Y1>
+    <Width>703</Width>
+    <Height>338</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>6</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+DogItemPick</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>928</Column1>
+    <Y1>13</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>968</XMid1>
+    <YMid1>13</YMid1>
+    <XMid2>1008</XMid2>
+    <YMid2>53</YMid2>
+    <XMid3>968</XMid3>
+    <YMid3>93</YMid3>
+    <XMid4>928</XMid4>
+    <YMid4>53</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Stop</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Stop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>703</Column1>
+    <Y1>258</Y1>
+    <Width>928</Width>
+    <Height>53</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>6</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Stop</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 12</StepName>
+    <Column1>766</Column1>
+    <Y1>259</Y1>
+    <Width>300</Width>
+    <Height>82</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>916</XMid1>
+    <YMid1>259</YMid1>
+    <XMid2>1066</XMid2>
+    <YMid2>300</YMid2>
+    <XMid3>916</XMid3>
+    <YMid3>341</YMid3>
+    <XMid4>766</XMid4>
+    <YMid4>300</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/DogItemPick%2Exml?ref=main</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 13</StepName>
+    <Column1>263</Column1>
+    <Y1>486</Y1>
+    <Width>300</Width>
+    <Height>82</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>413</XMid1>
+    <YMid1>486</YMid1>
+    <XMid2>563</XMid2>
+    <YMid2>527</YMid2>
+    <XMid3>413</XMid3>
+    <YMid3>568</YMid3>
+    <XMid4>263</XMid4>
+    <YMid4>527</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/LoginJPetStore%2Exml?ref=main</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 14</StepName>
+    <Column1>48</Column1>
+    <Y1>208</Y1>
+    <Width>300</Width>
+    <Height>82</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>198</XMid1>
+    <YMid1>208</YMid1>
+    <XMid2>348</XMid2>
+    <YMid2>249</YMid2>
+    <XMid3>198</XMid3>
+    <YMid3>290</YMid3>
+    <XMid4>48</XMid4>
+    <YMid4>249</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>https://api.github.com/repos/nestedflow-Automation/NestedFlowRepo/contents/sample%20scripts/OpenJPetStore%2Exml?ref=main</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 15</StepName>
+    <Column1>58</Column1>
+    <Y1>310</Y1>
+    <Width>300</Width>
+    <Height>82</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>208</XMid1>
+    <YMid1>310</YMid1>
+    <XMid2>358</XMid2>
+    <YMid2>351</YMid2>
+    <XMid3>208</XMid3>
+    <YMid3>392</YMid3>
+    <XMid4>58</XMid4>
+    <YMid4>351</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>NESTEDFLOWDESCRIPTION</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
