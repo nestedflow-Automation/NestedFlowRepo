@@ -37,7 +37,9 @@ Tool is a C# based codebase and can be integrated with Visual Studio, Appium, Ge
 Provides custom, simple HTML, Text reporting and tool can also be configured to create PDF reports
 
 # AI
-Supports basic OCR features and also performs action suggestions for HTML objects
+  Supports basic OCR features 
+  performs action suggestions for HTML objects
+  Work In Progress --> Intelligent web object capture
 
 # Data Management
 Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters 
