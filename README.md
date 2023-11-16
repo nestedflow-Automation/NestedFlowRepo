@@ -57,6 +57,13 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 # Development Methodology
 - Supports BDD,keyword or Data driven approaches
 
+# Supported Testing Types
+- Windows UI based Automation
+- Web Page (HTML) testing
+- Java legacy UI testing
+- Android Testing
+- Selenium grid based solutions
+  
 # Play and Record
 - Tool doesnt provide traditional record and play instead it provides the reverse. Simulation of action on screen so that the derived script is correct the first time itself without much modifications
 
