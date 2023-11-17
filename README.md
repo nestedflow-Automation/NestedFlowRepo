@@ -15,6 +15,8 @@ It is a group of components that work towards executing test cases and facilitat
 - Object Reusability
 - Integration with other technology
 - Reporting Mechaism
+- Support For ANdroid Mobile Testing
+- Can be integrated with Cloud based infrastructure for remote device testing
 - Integration with Test management tool
 - Support multiple development methodology
 - AI features
@@ -61,7 +63,7 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 - Windows UI based Automation
 - Web Page (HTML) testing
 - Java legacy UI testing
-- Android Testing
+- Android App Testing
 - Selenium grid based solutions
   
 # Play and Record
