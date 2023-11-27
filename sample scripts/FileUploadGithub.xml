@@ -1,0 +1,1205 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>52</Column1>
+    <Y1>57</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>92</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>132</XMid2>
+    <YMid2>97</YMid2>
+    <XMid3>92</XMid3>
+    <YMid3>137</YMid3>
+    <XMid4>52</XMid4>
+    <YMid4>97</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Start</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>897</Column1>
+    <Y1>544</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>937</XMid1>
+    <YMid1>544</YMid1>
+    <XMid2>977</XMid2>
+    <YMid2>584</YMid2>
+    <XMid3>937</XMid3>
+    <YMid3>624</YMid3>
+    <XMid4>897</XMid4>
+    <YMid4>584</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Stop</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Stop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>208</Column1>
+    <Y1>188</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Launch Website: https://the-internet.herokuapp.com/upload
+Using Browser: CHROME</Description>
+    <Expected>
+Expected Result: Launch Successful</Expected>
+    <Actual />
+    <XMid1>248</XMid1>
+    <YMid1>188</YMid1>
+    <XMid2>288</XMid2>
+    <YMid2>228</YMid2>
+    <XMid3>248</XMid3>
+    <YMid3>268</YMid3>
+    <XMid4>208</XMid4>
+    <YMid4>228</YMid4>
+    <YesBlock />
+    <NoBlock>CHROME,</NoBlock>
+    <AnyBlock>WEBLAUNCH</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Launch</DispName>
+    <Path />
+    <File_x0020_Path>https://the-internet.herokuapp.com/upload</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>132</Column1>
+    <Y1>97</Y1>
+    <Width>248</Width>
+    <Height>188</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Launch</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>327</Column1>
+    <Y1>530</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+
+Action Name: Click By Offset
+Action Value: 0,0</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>367</XMid1>
+    <YMid1>530</YMid1>
+    <XMid2>407</XMid2>
+    <YMid2>570</YMid2>
+    <XMid3>367</XMid3>
+    <YMid3>610</YMid3>
+    <XMid4>327</XMid4>
+    <YMid4>570</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click By Offset&lt;/Action&gt;
+    &lt;Value&gt;0,0&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Click File Dialog</DispName>
+    <Path />
+    <File_x0020_Path>//*[@id="file-upload"]&lt;&lt;&gt;&gt;Xpath</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>353</Column1>
+    <Y1>221</Y1>
+    <Width>541</Width>
+    <Height>257</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Click File Dialog</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>321</Column1>
+    <Y1>328</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>361</XMid1>
+    <YMid1>328</YMid1>
+    <XMid2>401</XMid2>
+    <YMid2>368</YMid2>
+    <XMid3>361</XMid3>
+    <YMid3>408</YMid3>
+    <XMid4>321</XMid4>
+    <YMid4>368</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>AUTOMATIONROOTELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Desktop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>541</Column1>
+    <Y1>337</Y1>
+    <Width>401</Width>
+    <Height>369</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Desktop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 7</StepName>
+    <Column1>106</Column1>
+    <Y1>417</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+
+Action Name: Normal Window
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>146</XMid1>
+    <YMid1>417</YMid1>
+    <XMid2>186</XMid2>
+    <YMid2>457</YMid2>
+    <XMid3>146</XMid3>
+    <YMid3>497</YMid3>
+    <XMid4>106</XMid4>
+    <YMid4>457</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Normal Window&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Capture Open Browser</DispName>
+    <Path />
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;DisplayName /&gt;&lt;Name&gt;The Internet&lt;/Name&gt;&lt;AutomationId /&gt;&lt;ProcessId&gt;12420&lt;/ProcessId&gt;&lt;ControlType&gt;window&lt;/ControlType&gt;&lt;IsPassword&gt;False&lt;/IsPassword&gt;&lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;&lt;ClassName&gt;Chrome_WidgetWin_1&lt;/ClassName&gt;&lt;ItemStatus /&gt;&lt;HelpText /&gt;&lt;NativeWindowHandle&gt;461822&lt;/NativeWindowHandle&gt;&lt;IsControlElement&gt;True&lt;/IsControlElement&gt;&lt;IsEnabled&gt;True&lt;/IsEnabled&gt;&lt;isKeyboardFocus&gt;False&lt;/isKeyboardFocus&gt;&lt;AccessKey /&gt;&lt;AcceleratorKey /&gt;&lt;HasKeyBoardFocus&gt;True&lt;/HasKeyBoardFocus&gt;&lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;&lt;LabeledBy /&gt;&lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;&lt;Patterns&gt;WindowPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Window
+TransformPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Transform
+ScrollItemPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ScrollItem
+ItemContainerPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;ItemContainer
+&lt;/Patterns&gt;&lt;SupportedProperties /&gt;&lt;Indentity&gt;Name Starts&lt;/Indentity&gt;&lt;Indentity2&gt;ControlType&lt;/Indentity2&gt;&lt;SearchBy&gt;Children&lt;/SearchBy&gt;&lt;SetCurrent&gt;Y&lt;/SetCurrent&gt;&lt;objNumber&gt;0&lt;/objNumber&gt;&lt;Xpath&gt;&amp;lt;NewDataSet&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;window&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name&amp;gt;The Internet - Profile 1 - Microsoft? Edge&amp;lt;/Name&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Root&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+&amp;lt;/NewDataSet&amp;gt;&lt;/Xpath&gt;&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>324</Column1>
+    <Y1>390</Y1>
+    <Width>146</Width>
+    <Height>417</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Capture Open Browser</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>273</Column1>
+    <Y1>221</Y1>
+    <Width>146</Width>
+    <Height>417</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Capture Open Browser</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>186</Column1>
+    <Y1>457</Y1>
+    <Width>361</Width>
+    <Height>409</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Desktop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>288</Column1>
+    <Y1>228</Y1>
+    <Width>361</Width>
+    <Height>329</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Desktop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>321</Column1>
+    <Y1>368</Y1>
+    <Width>146</Width>
+    <Height>417</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Capture Open Browser</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR8</StepName>
+    <Column1>146</Column1>
+    <Y1>497</Y1>
+    <Width>327</Width>
+    <Height>570</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Click File Dialog</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 8</StepName>
+    <Column1>508</Column1>
+    <Y1>264</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 1</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  1 Seconds</Expected>
+    <Actual />
+    <XMid1>548</XMid1>
+    <YMid1>264</YMid1>
+    <XMid2>588</XMid2>
+    <YMid2>304</YMid2>
+    <XMid3>548</XMid3>
+    <YMid3>344</YMid3>
+    <XMid4>508</XMid4>
+    <YMid4>304</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Delay</DispName>
+    <Path />
+    <File_x0020_Path>1</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR9</StepName>
+    <Column1>288</Column1>
+    <Y1>228</Y1>
+    <Width>548</Width>
+    <Height>264</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>16</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Delay</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR10</StepName>
+    <Column1>548</Column1>
+    <Y1>344</Y1>
+    <Width>401</Width>
+    <Height>368</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>16</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Desktop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 9</StepName>
+    <Column1>631</Column1>
+    <Y1>418</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+
+Action Name: Highlight
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>671</XMid1>
+    <YMid1>418</YMid1>
+    <XMid2>711</XMid2>
+    <YMid2>458</YMid2>
+    <XMid3>671</XMid3>
+    <YMid3>498</YMid3>
+    <XMid4>631</XMid4>
+    <YMid4>458</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Highlight&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Capture Dialog</DispName>
+    <Path />
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;DisplayName /&gt;&lt;Name&gt;Open&lt;/Name&gt;&lt;AutomationId /&gt;&lt;ProcessId&gt;17752&lt;/ProcessId&gt;&lt;ControlType&gt;Dialog&lt;/ControlType&gt;&lt;IsPassword&gt;False&lt;/IsPassword&gt;&lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;&lt;ClassName&gt;#32770&lt;/ClassName&gt;&lt;ItemStatus /&gt;&lt;HelpText /&gt;&lt;NativeWindowHandle&gt;855182&lt;/NativeWindowHandle&gt;&lt;IsControlElement&gt;True&lt;/IsControlElement&gt;&lt;IsEnabled&gt;True&lt;/IsEnabled&gt;&lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;&lt;AccessKey /&gt;&lt;AcceleratorKey /&gt;&lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;&lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;&lt;LabeledBy /&gt;&lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;&lt;Patterns&gt;WindowPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Window
+TransformPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Transform
+&lt;/Patterns&gt;&lt;SupportedProperties /&gt;&lt;Indentity&gt;Name&lt;/Indentity&gt;&lt;Indentity2&gt;ControlType&lt;/Indentity2&gt;&lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;&lt;SetCurrent&gt;Y&lt;/SetCurrent&gt;&lt;objNumber&gt;0&lt;/objNumber&gt;&lt;Xpath&gt;&amp;lt;NewDataSet&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Dialog&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;window&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name&amp;gt;The Internet - Profile 1 - Microsoft? Edge&amp;lt;/Name&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Root&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+&amp;lt;/NewDataSet&amp;gt;&lt;/Xpath&gt;&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR11</StepName>
+    <Column1>407</Column1>
+    <Y1>570</Y1>
+    <Width>535</Width>
+    <Height>526</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Capture Dialog</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 10</StepName>
+    <Column1>517</Column1>
+    <Y1>590</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>557</XMid1>
+    <YMid1>590</YMid1>
+    <XMid2>597</XMid2>
+    <YMid2>630</YMid2>
+    <XMid3>557</XMid3>
+    <YMid3>670</YMid3>
+    <XMid4>517</XMid4>
+    <YMid4>630</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Delay</DispName>
+    <Path />
+    <File_x0020_Path>1</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR12</StepName>
+    <Column1>367</Column1>
+    <Y1>610</Y1>
+    <Width>517</Width>
+    <Height>630</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>21</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Delay</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR13</StepName>
+    <Column1>557</Column1>
+    <Y1>590</Y1>
+    <Width>631</Width>
+    <Height>458</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>21</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Capture Dialog</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 11</StepName>
+    <Column1>769</Column1>
+    <Y1>307</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+
+Action Name: EnterText
+Action Value: c:\km\km.xml</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>809</XMid1>
+    <YMid1>307</YMid1>
+    <XMid2>849</XMid2>
+    <YMid2>347</YMid2>
+    <XMid3>809</XMid3>
+    <YMid3>387</YMid3>
+    <XMid4>769</XMid4>
+    <YMid4>347</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;c:\km\km.xml&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>File Name Enter</DispName>
+    <Path />
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;DisplayName /&gt;&lt;Name&gt;File name:&lt;/Name&gt;&lt;AutomationId&gt;1148&lt;/AutomationId&gt;&lt;ProcessId&gt;14824&lt;/ProcessId&gt;&lt;ControlType&gt;edit&lt;/ControlType&gt;&lt;IsPassword&gt;False&lt;/IsPassword&gt;&lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;&lt;ClassName&gt;Edit&lt;/ClassName&gt;&lt;ItemStatus /&gt;&lt;HelpText /&gt;&lt;NativeWindowHandle&gt;593160&lt;/NativeWindowHandle&gt;&lt;IsControlElement&gt;True&lt;/IsControlElement&gt;&lt;IsEnabled&gt;True&lt;/IsEnabled&gt;&lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;&lt;AccessKey&gt;Alt+n&lt;/AccessKey&gt;&lt;AcceleratorKey /&gt;&lt;HasKeyBoardFocus&gt;True&lt;/HasKeyBoardFocus&gt;&lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;&lt;LabeledBy /&gt;&lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;&lt;Patterns&gt;ValuePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Value
+TextPatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Text
+&lt;/Patterns&gt;&lt;SupportedProperties /&gt;&lt;Indentity&gt;Name&lt;/Indentity&gt;&lt;Indentity2&gt;ControlType&lt;/Indentity2&gt;&lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;&lt;SetCurrent&gt;N&lt;/SetCurrent&gt;&lt;objNumber&gt;0&lt;/objNumber&gt;&lt;Xpath&gt;&amp;lt;NewDataSet&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;edit&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;combobox&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Dialog&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;window&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name&amp;gt;The Internet - Google Chrome&amp;lt;/Name&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Root&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+&amp;lt;/NewDataSet&amp;gt;&lt;/Xpath&gt;&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR14</StepName>
+    <Column1>711</Column1>
+    <Y1>458</Y1>
+    <Width>809</Width>
+    <Height>387</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>24</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+File Name Enter</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 12</StepName>
+    <Column1>626</Column1>
+    <Y1>57</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Windows Element: 
+
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>666</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>706</XMid2>
+    <YMid2>97</YMid2>
+    <XMid3>666</XMid3>
+    <YMid3>137</YMid3>
+    <XMid4>626</XMid4>
+    <YMid4>97</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>AUTOMATIONCHILDELEMENT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Open Button Click</DispName>
+    <Path />
+    <File_x0020_Path>&lt;?xml version="1.0" ?&gt;&lt;WINOBJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;DisplayName /&gt;&lt;Name&gt;Open&lt;/Name&gt;&lt;AutomationId&gt;1&lt;/AutomationId&gt;&lt;ProcessId&gt;22532&lt;/ProcessId&gt;&lt;ControlType&gt;button&lt;/ControlType&gt;&lt;IsPassword&gt;False&lt;/IsPassword&gt;&lt;FrameworkID&gt;Win32&lt;/FrameworkID&gt;&lt;ClassName&gt;Button&lt;/ClassName&gt;&lt;ItemStatus /&gt;&lt;HelpText /&gt;&lt;NativeWindowHandle&gt;1248194&lt;/NativeWindowHandle&gt;&lt;IsControlElement&gt;True&lt;/IsControlElement&gt;&lt;IsEnabled&gt;True&lt;/IsEnabled&gt;&lt;isKeyboardFocus&gt;True&lt;/isKeyboardFocus&gt;&lt;AccessKey&gt;Alt+O&lt;/AccessKey&gt;&lt;AcceleratorKey /&gt;&lt;HasKeyBoardFocus&gt;False&lt;/HasKeyBoardFocus&gt;&lt;IsRequiredForForm&gt;False&lt;/IsRequiredForForm&gt;&lt;LabeledBy /&gt;&lt;ItemType&gt;System.Windows.Automation.AutomationElement+AutomationElementInformation&lt;/ItemType&gt;&lt;Patterns&gt;InvokePatternIdentifiers.Pattern&amp;lt;&amp;lt; &amp;gt;&amp;gt;Invoke
+&lt;/Patterns&gt;&lt;SupportedProperties /&gt;&lt;Indentity&gt;Name&lt;/Indentity&gt;&lt;Indentity2&gt;ControlType&lt;/Indentity2&gt;&lt;SearchBy&gt;Descendants&lt;/SearchBy&gt;&lt;SetCurrent&gt;N&lt;/SetCurrent&gt;&lt;objNumber&gt;0&lt;/objNumber&gt;&lt;Xpath&gt;&amp;lt;NewDataSet&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;button&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Dialog&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index&amp;gt;0&amp;lt;/Index&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;window&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name&amp;gt;The Internet - Google Chrome&amp;lt;/Name&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+  &amp;lt;XpathData&amp;gt;
+    &amp;lt;ControlType&amp;gt;Root&amp;lt;/ControlType&amp;gt;
+    &amp;lt;Id /&amp;gt;
+    &amp;lt;Name /&amp;gt;
+    &amp;lt;Index /&amp;gt;
+  &amp;lt;/XpathData&amp;gt;
+&amp;lt;/NewDataSet&amp;gt;&lt;/Xpath&gt;&lt;/WINOBJECT&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR15</StepName>
+    <Column1>769</Column1>
+    <Y1>347</Y1>
+    <Width>666</Width>
+    <Height>137</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>24</XMid1>
+    <YMid1>26</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Open Button Click</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR16</StepName>
+    <Column1>670</Column1>
+    <Y1>111</Y1>
+    <Width>892</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>26</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Stop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 13</StepName>
+    <Column1>897</Column1>
+    <Y1>170</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>937</XMid1>
+    <YMid1>170</YMid1>
+    <XMid2>977</XMid2>
+    <YMid2>210</YMid2>
+    <XMid3>937</XMid3>
+    <YMid3>250</YMid3>
+    <XMid4>897</XMid4>
+    <YMid4>210</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Upload Button Click</DispName>
+    <Path />
+    <File_x0020_Path>//*[@id="file-submit"]&lt;&lt;&gt;&gt;Xpath</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR17</StepName>
+    <Column1>706</Column1>
+    <Y1>97</Y1>
+    <Width>937</Width>
+    <Height>170</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>26</XMid1>
+    <YMid1>29</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Upload Button Click</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR18</StepName>
+    <Column1>978</Column1>
+    <Y1>209</Y1>
+    <Width>1023</Width>
+    <Height>412</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>29</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Stop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 14</StepName>
+    <Column1>897</Column1>
+    <Y1>354</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>937</XMid1>
+    <YMid1>354</YMid1>
+    <XMid2>977</XMid2>
+    <YMid2>394</YMid2>
+    <XMid3>937</XMid3>
+    <YMid3>434</YMid3>
+    <XMid4>897</XMid4>
+    <YMid4>394</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WEBCLOSE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Close Browser</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR19</StepName>
+    <Column1>937</Column1>
+    <Y1>250</Y1>
+    <Width>937</Width>
+    <Height>354</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>29</XMid1>
+    <YMid1>32</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close Browser</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR20</StepName>
+    <Column1>937</Column1>
+    <Y1>434</Y1>
+    <Width>937</Width>
+    <Height>544</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Stop</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
