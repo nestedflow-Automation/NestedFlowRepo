@@ -71,6 +71,7 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 
 # Software link
 Version 1.0: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.msi/download
+Version 1.2: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.zip/download
 
 Version 1.1: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation1_1.zip/download
 
