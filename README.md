@@ -37,6 +37,7 @@ Tool is a C# based codebase and can be integrated with Visual Studio, Appium, Ge
 
 # Reporting
 Provides custom, simple HTML, Text reporting and tool can also be configured to create PDF reports
+Also provides Extent Report test log output
 
 # AI
   Supports basic OCR features 
@@ -70,11 +71,13 @@ Supports Excel, API based data delivery, Text based data, XML etc. Also supports
 - Tool doesnt provide traditional record and play instead it provides the reverse. Simulation of action on screen so that the derived script is correct the first time itself without much modifications
 
 # Software link
-Version 1.0: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.msi/download
+Version 1.3: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation_1.3.zip/download
+
+Version 1.2: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.zip/download
 
 Version 1.1: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation1_1.zip/download
 
-Version 1.2: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.zip/download
+Version 1.0: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation.msi/download
 
 # Contact
 nestedflowautomation@gmail.com
