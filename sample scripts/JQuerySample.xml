@@ -1,0 +1,1082 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>55</Column1>
+    <Y1>46</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>95</XMid1>
+    <YMid1>46</YMid1>
+    <XMid2>135</XMid2>
+    <YMid2>86</YMid2>
+    <XMid3>95</XMid3>
+    <YMid3>126</YMid3>
+    <XMid4>55</XMid4>
+    <YMid4>86</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Start</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>295</Column1>
+    <Y1>134</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>335</XMid1>
+    <YMid1>134</YMid1>
+    <XMid2>375</XMid2>
+    <YMid2>174</YMid2>
+    <XMid3>335</XMid3>
+    <YMid3>214</YMid3>
+    <XMid4>295</XMid4>
+    <YMid4>174</YMid4>
+    <YesBlock />
+    <NoBlock>CHROME</NoBlock>
+    <AnyBlock>WEBLAUNCH</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>WEBLAUNCH</DispName>
+    <Path />
+    <File_x0020_Path>https://jqueryui.com/droppable/</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>295</Column1>
+    <Y1>284</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLFrame
+Action Name: Move To Frame
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>335</XMid1>
+    <YMid1>284</YMid1>
+    <XMid2>375</XMid2>
+    <YMid2>324</YMid2>
+    <XMid3>335</XMid3>
+    <YMid3>364</YMid3>
+    <XMid4>295</XMid4>
+    <YMid4>324</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+&lt;Table1&gt;
+&lt;Action&gt;Move To Frame&lt;/Action&gt;&lt;Value&gt;&lt;/Value&gt;&lt;/Table1&gt;&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLFrame</DispName>
+    <Path />
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Droppable | jQuery UI&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;demo-frame&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;iframe src="/resources/demos/droppable/default.html" class="demo-frame"&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;iframe&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;370&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;113&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;591&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;420&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;702&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;349&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/iframe[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;//div[@id='content']/iframe[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;#content&amp;gt;iframe:nth-of-type(1)&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLFrame&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>335</Column1>
+    <Y1>214</Y1>
+    <Width>335</Width>
+    <Height>284</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+HTMLFrame</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>295</Column1>
+    <Y1>434</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+HTMLElement::draggable
+Action Name: Drag And Drop
+Action Value: //div[@id='droppable']</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>335</XMid1>
+    <YMid1>434</YMid1>
+    <XMid2>375</XMid2>
+    <YMid2>474</YMid2>
+    <XMid3>335</XMid3>
+    <YMid3>514</YMid3>
+    <XMid4>295</XMid4>
+    <YMid4>474</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Drag And Drop&lt;/Action&gt;
+    &lt;Value&gt;//div[@id='droppable']&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>SELOBJECT</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>HTMLElement::draggable</DispName>
+    <Path />
+    <File_x0020_Path>&lt;DocumentElement&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;BrowserTitle&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Droppable | jQuery UI&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ClassName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;ui-widget-content ui-draggable ui-draggable-handle&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;id&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;draggable&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;
+	&amp;lt;p&amp;gt;Drag me to my target&amp;lt;/p&amp;gt;
+&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;InnerText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Drag me to my target&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterHTML&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;&amp;lt;div id="draggable" class="ui-widget-content ui-draggable ui-draggable-handle" style="position: relative;"&amp;gt;
+	&amp;lt;p&amp;gt;Drag me to my target&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OuterText&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;Drag me to my target&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Title&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;HTMLType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;TagName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;div&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;isTextEdit&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RecordNumber&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;language&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;onclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ondblclick&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnbeforeUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OnAfterUpdate&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Filters&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Style&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;position: relative;&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;SourceIndex&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetLeft&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;8&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetTop&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;18&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetWidth&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;118&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;OffsetHeight&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;118&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Value&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;X&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;8&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Y&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;18&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;name&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;visibility&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;True&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Xpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;/html[1]/body[1]/div[1]&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;RefXpath&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;//div[@id='draggable']&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;CSSSelector&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;#draggable&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ObjectType&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;Objecthref&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;DisplayName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;HTMLElement::draggable&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;ReferBy&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value&gt;RefXpath&lt;/Attribute_x0020_Value&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameName&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameID&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+  &lt;XMLTABLE&gt;
+    &lt;Attribute_x0020_Name&gt;FrameXpathTrail&lt;/Attribute_x0020_Name&gt;
+    &lt;Attribute_x0020_Value /&gt;
+  &lt;/XMLTABLE&gt;
+&lt;/DocumentElement&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>335</Column1>
+    <Y1>364</Y1>
+    <Width>335</Width>
+    <Height>434</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+HTMLElement::draggable</DispName>
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>135</Column1>
+    <Y1>86</Y1>
+    <Width>335</Width>
+    <Height>134</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>884</Column1>
+    <Y1>272</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>924</XMid1>
+    <YMid1>272</YMid1>
+    <XMid2>964</XMid2>
+    <YMid2>312</YMid2>
+    <XMid3>924</XMid3>
+    <YMid3>352</YMid3>
+    <XMid4>884</XMid4>
+    <YMid4>312</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Stop</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>375</Column1>
+    <Y1>474</Y1>
+    <Width>624</Width>
+    <Height>396</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>8</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 7</StepName>
+    <Column1>523</Column1>
+    <Y1>578</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 3</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  3 Seconds</Expected>
+    <Actual />
+    <XMid1>563</XMid1>
+    <YMid1>578</YMid1>
+    <XMid2>603</XMid2>
+    <YMid2>618</YMid2>
+    <XMid3>563</XMid3>
+    <YMid3>658</YMid3>
+    <XMid4>523</XMid4>
+    <YMid4>618</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path>3</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>335</Column1>
+    <Y1>514</Y1>
+    <Width>518</Width>
+    <Height>602</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>603</Column1>
+    <Y1>618</Y1>
+    <Width>689</Width>
+    <Height>390</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>8</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 8</StepName>
+    <Column1>294</Column1>
+    <Y1>578</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+
+Action Name: Wait Till Jquery Stable
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>334</XMid1>
+    <YMid1>578</YMid1>
+    <XMid2>374</XMid2>
+    <YMid2>618</YMid2>
+    <XMid3>334</XMid3>
+    <YMid3>658</YMid3>
+    <XMid4>294</XMid4>
+    <YMid4>618</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Wait Till Jquery Stable&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>335</Column1>
+    <Y1>514</Y1>
+    <Width>334</Width>
+    <Height>578</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>13</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>374</Column1>
+    <Y1>618</Y1>
+    <Width>523</Width>
+    <Height>618</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>13</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 9</StepName>
+    <Column1>517</Column1>
+    <Y1>205</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>557</XMid1>
+    <YMid1>205</YMid1>
+    <XMid2>597</XMid2>
+    <YMid2>245</YMid2>
+    <XMid3>557</XMid3>
+    <YMid3>285</YMid3>
+    <XMid4>517</XMid4>
+    <YMid4>245</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Wait Till Jquery Stable&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR8</StepName>
+    <Column1>375</Column1>
+    <Y1>174</Y1>
+    <Width>557</Width>
+    <Height>205</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>16</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR9</StepName>
+    <Column1>557</Column1>
+    <Y1>285</Y1>
+    <Width>375</Width>
+    <Height>324</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>16</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 10</StepName>
+    <Column1>101</Column1>
+    <Y1>355</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>141</XMid1>
+    <YMid1>355</YMid1>
+    <XMid2>181</XMid2>
+    <YMid2>395</YMid2>
+    <XMid3>141</XMid3>
+    <YMid3>435</YMid3>
+    <XMid4>101</XMid4>
+    <YMid4>395</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Wait Till Jquery Stable&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR10</StepName>
+    <Column1>295</Column1>
+    <Y1>324</Y1>
+    <Width>141</Width>
+    <Height>355</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR11</StepName>
+    <Column1>141</Column1>
+    <Y1>435</Y1>
+    <Width>295</Width>
+    <Height>474</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 11</StepName>
+    <Column1>746</Column1>
+    <Y1>455</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>786</XMid1>
+    <YMid1>455</YMid1>
+    <XMid2>826</XMid2>
+    <YMid2>495</YMid2>
+    <XMid3>786</XMid3>
+    <YMid3>535</YMid3>
+    <XMid4>746</XMid4>
+    <YMid4>495</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WEBCLOSE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR12</StepName>
+    <Column1>603</Column1>
+    <Y1>618</Y1>
+    <Width>786</Width>
+    <Height>535</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR13</StepName>
+    <Column1>786</Column1>
+    <Y1>455</Y1>
+    <Width>884</Width>
+    <Height>312</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>22</XMid1>
+    <YMid1>8</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path />
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
