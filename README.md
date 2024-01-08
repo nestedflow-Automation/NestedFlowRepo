@@ -45,7 +45,8 @@ Also provides Extent Report test log output
   Work In Progress --> Intelligent web object capture
 
 # Data Management
-Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters 
+- Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters
+- Provides Commonly used data elements
 
 # Modernization and Extension
 - Easy to reuse components
