@@ -72,6 +72,7 @@ Also provides Extent Report test log output
 - Tool doesnt provide traditional record and play instead it provides the reverse. Simulation of action on screen so that the derived script is correct the first time itself without much modifications
 
 # Software link
+Version 1.5: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation_1.5.zip/download
 
 Version 1.4: https://sourceforge.net/projects/nestedflowautomation/files/NestedFlowAutomation_1.4.zip/download
 
