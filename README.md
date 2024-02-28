@@ -66,7 +66,7 @@ Also provides Extent Report test log output
 - Windows UI based Automation
 - Web Page (HTML) testing
 - Java legacy UI testing
-- d App Testing
+- Android App Testing by Appium integration
 - Selenium grid based solutions
   
 # Play and Record
