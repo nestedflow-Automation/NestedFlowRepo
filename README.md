@@ -42,7 +42,8 @@ Also provides Extent Report test log output
 # AI
   Supports basic OCR features 
   performs action suggestions for HTML objects
-  Work In Progress --> Intelligent web object capture
+  Intelligent Web object capture based on AI
+  XPathless testing ability by using AI based object search
 
 # Data Management
 - Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters
