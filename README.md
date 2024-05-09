@@ -47,6 +47,7 @@ Also provides Extent Report test log output
 
 # Data Management
 - Supports Excel, API based data delivery, Text based data, XML etc. Also supports parameters
+- Integrated with Faker and inbuilt repository to get most common test data
 - Provides Commonly used data elements
 
 # Modernization and Extension
