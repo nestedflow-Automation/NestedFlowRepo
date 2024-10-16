@@ -4,6 +4,9 @@ Tool can be used as Model Based Application testing tool in which each test case
 Please refer to the introductory Video link: https://www.youtube.com/watch?v=Pm7px2cduqw
 ![image](https://github.com/nestedflow-Automation/NestedFlowRepo/assets/144468568/8987dd29-6ecf-4222-8d56-45d63da78ef4)
 
+AI Based Test Automation Video 1: 
+https://youtu.be/Sv3GK_TTuiE?si=-RsdGko5G-DbowgD
+
 # Website 
 https://nestedflowautomation.com/
 
