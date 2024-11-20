@@ -1,0 +1,523 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>132</Column1>
+    <Y1>71</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>172</XMid1>
+    <YMid1>71</YMid1>
+    <XMid2>212</XMid2>
+    <YMid2>111</YMid2>
+    <XMid3>172</XMid3>
+    <YMid3>151</YMid3>
+    <XMid4>132</XMid4>
+    <YMid4>111</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PNAME&gt;TESTREPORTTYPE&lt;/PNAME&gt;
+    &lt;PVALUE&gt;EXTENT&lt;/PVALUE&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>Start</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>318</Column1>
+    <Y1>220</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>358</XMid1>
+    <YMid1>220</YMid1>
+    <XMid2>398</XMid2>
+    <YMid2>260</YMid2>
+    <XMid3>358</XMid3>
+    <YMid3>300</YMid3>
+    <XMid4>318</XMid4>
+    <YMid4>260</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>PYTHONENGINE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Execute Python</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>with open('c:\km\pythontext.txt','w') as file:
+    file.write('Added By Python Code')
+    
+print(":Data Written to file successfully")</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>172</Column1>
+    <Y1>151</Y1>
+    <Width>318</Width>
+    <Height>260</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Execute Python</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>549</Column1>
+    <Y1>637</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>589</XMid1>
+    <YMid1>637</YMid1>
+    <XMid2>629</XMid2>
+    <YMid2>677</YMid2>
+    <XMid3>589</XMid3>
+    <YMid3>717</YMid3>
+    <XMid4>549</XMid4>
+    <YMid4>677</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Stop</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>405</Column1>
+    <Y1>377</Y1>
+    <Width>588</Width>
+    <Height>602</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>4</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>515</Column1>
+    <Y1>348</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>555</XMid1>
+    <YMid1>348</YMid1>
+    <XMid2>595</XMid2>
+    <YMid2>388</YMid2>
+    <XMid3>555</XMid3>
+    <YMid3>428</YMid3>
+    <XMid4>515</XMid4>
+    <YMid4>388</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>PYTHONENGINE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>550</Column1>
+    <Y1>446</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual>STATUS</Actual>
+    <XMid1>590</XMid1>
+    <YMid1>446</YMid1>
+    <XMid2>630</XMid2>
+    <YMid2>486</YMid2>
+    <XMid3>590</XMid3>
+    <YMid3>526</YMid3>
+    <XMid4>550</XMid4>
+    <YMid4>486</YMid4>
+    <YesBlock />
+    <NoBlock>when,we,did,amazing</NoBlock>
+    <AnyBlock>PYTHONENGINE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Execute Python</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>import clr
+clr.AddReference("System.Windows.Forms")
+clr.AddReference('System.Data')
+import sys
+sys.path.append("C:\\CORE NEST\\XMLParser\\XMLParser\\XMLParser\\net6.0-windows")
+sys.path.append(r'C:\Program Files\IronPython 3.4\Lib')
+sys.path.append(r'C:\Program Files\IronPython 3.4\Lib\site-packages')
+clr.AddReferenceToFile("LogFileManagement.dll")
+import XMLParser.LogFileActions
+from System.Windows.Forms import MessageBox, MessageBoxButtons
+from System.Data import DataTable
+from faker import Faker
+fake = Faker()
+
+dTab.Columns.Add("Full Name")
+
+XMLParser.LogFileActions.CreateLogFile("","DEFAULT",logfile)
+
+for row in dTab.Rows:
+    XMLParser.LogFileActions.AppendLine("Name Found: " + str(row[0]), True, "LOGTYPEINFO")
+    row[1] = fake.name()
+
+
+XMLParser.LogFileActions.AppendLine("argument 0: " + str(arg0), True, "LOGTYPECAUTION")
+
+conditionvalue = fake.name()</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>405</Column1>
+    <Y1>377</Y1>
+    <Width>590</Width>
+    <Height>445</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Execute Python</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>590</Column1>
+    <Y1>526</Y1>
+    <Width>589</Width>
+    <Height>637</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>4</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 11</StepName>
+    <Column1>539</Column1>
+    <Y1>221</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>579</XMid1>
+    <YMid1>221</YMid1>
+    <XMid2>619</XMid2>
+    <YMid2>261</YMid2>
+    <XMid3>579</XMid3>
+    <YMid3>301</YMid3>
+    <XMid4>539</XMid4>
+    <YMid4>261</YMid4>
+    <YesBlock />
+    <NoBlock>30</NoBlock>
+    <AnyBlock>SCRATCHPADTABLE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Create Table</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Demo</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>398</Column1>
+    <Y1>260</Y1>
+    <Width>539</Width>
+    <Height>261</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Create Table</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 12</StepName>
+    <Column1>784</Column1>
+    <Y1>220</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Save Data Returened From Previous step In To Data Table: SAMPLE For future Use</Description>
+    <Expected>Saving of Data Is Successful</Expected>
+    <Actual />
+    <XMid1>824</XMid1>
+    <YMid1>220</YMid1>
+    <XMid2>864</XMid2>
+    <YMid2>260</YMid2>
+    <XMid3>824</XMid3>
+    <YMid3>300</YMid3>
+    <XMid4>784</XMid4>
+    <YMid4>260</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>MERGE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Save table</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>SAMPLE</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>619</Column1>
+    <Y1>261</Y1>
+    <Width>784</Width>
+    <Height>260</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>12</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Save table</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 13</StepName>
+    <Column1>784</Column1>
+    <Y1>356</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>824</XMid1>
+    <YMid1>356</YMid1>
+    <XMid2>864</XMid2>
+    <YMid2>396</YMid2>
+    <XMid3>824</XMid3>
+    <YMid3>436</YMid3>
+    <XMid4>784</XMid4>
+    <YMid4>396</YMid4>
+    <YesBlock />
+    <NoBlock>{:USFEMALEFIRSTNAME}</NoBlock>
+    <AnyBlock>SETTABLEVALUE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Column Fill</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>SAMPLE,Demo</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>824</Column1>
+    <Y1>300</Y1>
+    <Width>824</Width>
+    <Height>356</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>12</XMid1>
+    <YMid1>14</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Column Fill</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>824</Column1>
+    <Y1>436</Y1>
+    <Width>630</Width>
+    <Height>486</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>14</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Execute Python</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
