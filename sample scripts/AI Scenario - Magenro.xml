@@ -1,0 +1,3559 @@
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>8</Column1>
+    <Y1>2</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>88</XMid2>
+    <YMid2>42</YMid2>
+    <XMid3>48</XMid3>
+    <YMid3>82</YMid3>
+    <XMid4>8</XMid4>
+    <YMid4>42</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PNAME&gt;OrderNumber&lt;/PNAME&gt;
+    &lt;PVALUE /&gt;
+  &lt;/Table1&gt;
+  &lt;Table1&gt;
+    &lt;PNAME&gt;TESTREPORTTYPE&lt;/PNAME&gt;
+    &lt;PVALUE&gt;EXTENT&lt;/PVALUE&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>Start</AnyBlock>
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>1411</Column1>
+    <Y1>598</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1451</XMid1>
+    <YMid1>598</YMid1>
+    <XMid2>1491</XMid2>
+    <YMid2>638</YMid2>
+    <XMid3>1451</XMid3>
+    <YMid3>678</YMid3>
+    <XMid4>1411</XMid4>
+    <YMid4>638</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>Stop</AnyBlock>
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>8</Column1>
+    <Y1>320</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Launch Website: https://magento.softwaretestingboard.com/?ref=hackernoon.com
+Using Browser: CHROME</Description>
+    <Expected>
+Expected Result: Launch Successful</Expected>
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>320</YMid1>
+    <XMid2>88</XMid2>
+    <YMid2>360</YMid2>
+    <XMid3>48</XMid3>
+    <YMid3>400</YMid3>
+    <XMid4>8</XMid4>
+    <YMid4>360</YMid4>
+    <YesBlock />
+    <NoBlock>CHROME,</NoBlock>
+    <AnyBlock>WEBLAUNCH</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Launch</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>https://magento.softwaretestingboard.com/?ref=hackernoon.com</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>48</Column1>
+    <Y1>82</Y1>
+    <Width>48</Width>
+    <Height>320</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Launch</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>171</Column1>
+    <Y1>267</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Women
+Action Name: Move To Element
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>211</XMid1>
+    <YMid1>267</YMid1>
+    <XMid2>251</XMid2>
+    <YMid2>307</YMid2>
+    <XMid3>211</XMid3>
+    <YMid3>347</YMid3>
+    <XMid4>171</XMid4>
+    <YMid4>307</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Move To Element&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Women</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Women&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>88</Column1>
+    <Y1>192</Y1>
+    <Width>211</Width>
+    <Height>267</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Women</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>172</Column1>
+    <Y1>403</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: Tops. Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>212</XMid1>
+    <YMid1>403</YMid1>
+    <XMid2>252</XMid2>
+    <YMid2>443</YMid2>
+    <XMid3>212</XMid3>
+    <YMid3>483</YMid3>
+    <XMid4>172</XMid4>
+    <YMid4>443</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Move To Element&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Tops</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Tops&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>211</Column1>
+    <Y1>347</Y1>
+    <Width>212</Width>
+    <Height>403</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Tops</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 7</StepName>
+    <Column1>172</Column1>
+    <Y1>555</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Tees
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>212</XMid1>
+    <YMid1>555</YMid1>
+    <XMid2>252</XMid2>
+    <YMid2>595</YMid2>
+    <XMid3>212</XMid3>
+    <YMid3>635</YMid3>
+    <XMid4>172</XMid4>
+    <YMid4>595</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Tees</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Tees&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>212</Column1>
+    <Y1>483</Y1>
+    <Width>212</Width>
+    <Height>555</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>7</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Tees</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 8</StepName>
+    <Column1>370</Column1>
+    <Y1>466</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: Radiant Tee. Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>410</XMid1>
+    <YMid1>466</YMid1>
+    <XMid2>450</XMid2>
+    <YMid2>506</YMid2>
+    <XMid3>410</XMid3>
+    <YMid3>546</YMid3>
+    <XMid4>370</XMid4>
+    <YMid4>506</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[2]/div[2]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//a[normalize-space()="Radiant Tee"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;FramePath /&gt;
+    &lt;class&gt;product-item-link&lt;/class&gt;
+    &lt;href&gt;https://magento.softwaretestingboard.com/radiant-tee.html&lt;/href&gt;
+    &lt;a_Text&gt;
+                                Radiant Tee                            &lt;/a_Text&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Radiant Tee</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Radiant Tee&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>252</Column1>
+    <Y1>595</Y1>
+    <Width>410</Width>
+    <Height>545</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>11</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Radiant Tee</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 9</StepName>
+    <Column1>380</Column1>
+    <Y1>90</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>420</XMid1>
+    <YMid1>90</YMid1>
+    <XMid2>460</XMid2>
+    <YMid2>130</YMid2>
+    <XMid3>420</XMid3>
+    <YMid3>170</YMid3>
+    <XMid4>380</XMid4>
+    <YMid4>130</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 10</StepName>
+    <Column1>371</Column1>
+    <Y1>311</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: XS. Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>411</XMid1>
+    <YMid1>311</YMid1>
+    <XMid2>451</XMid2>
+    <YMid2>351</YMid2>
+    <XMid3>411</XMid3>
+    <YMid3>391</YMid3>
+    <XMid4>371</XMid4>
+    <YMid4>351</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[4]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//div[@aria-label="XS"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;class&gt;swatch-option text&lt;/class&gt;
+    &lt;id&gt;option-label-size-143-item-166&lt;/id&gt;
+    &lt;index&gt;0&lt;/index&gt;
+    &lt;aria-checked&gt;false&lt;/aria-checked&gt;
+    &lt;aria-describedby&gt;option-label-size-143&lt;/aria-describedby&gt;
+    &lt;tabindex&gt;0&lt;/tabindex&gt;
+    &lt;option-type&gt;0&lt;/option-type&gt;
+    &lt;option-id&gt;166&lt;/option-id&gt;
+    &lt;option-label&gt;XS&lt;/option-label&gt;
+    &lt;aria-label&gt;XS&lt;/aria-label&gt;
+    &lt;option-tooltip-thumb /&gt;
+    &lt;option-tooltip-value&gt;XS&lt;/option-tooltip-value&gt;
+    &lt;role&gt;option&lt;/role&gt;
+    &lt;thumb-width&gt;110&lt;/thumb-width&gt;
+    &lt;thumb-height&gt;90&lt;/thumb-height&gt;
+    &lt;div_Text&gt;XS&lt;/div_Text&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Size</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>XS&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>410</Column1>
+    <Y1>466</Y1>
+    <Width>411</Width>
+    <Height>391</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>11</XMid1>
+    <YMid1>14</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Size</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 11</StepName>
+    <Column1>520</Column1>
+    <Y1>182</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Add To Cart
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>560</XMid1>
+    <YMid1>182</YMid1>
+    <XMid2>600</XMid2>
+    <YMid2>222</YMid2>
+    <XMid3>560</XMid3>
+    <YMid3>262</YMid3>
+    <XMid4>520</XMid4>
+    <YMid4>222</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[4]/form[1]/div[2]/div[1]/div[1]/div[2]/button[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//button[@id="product-addtocart-button"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;span&gt;Add to Cart&lt;/span&gt;
+    &lt;type&gt;submit&lt;/type&gt;
+    &lt;title&gt;Add to Cart&lt;/title&gt;
+    &lt;class&gt;action primary tocart&lt;/class&gt;
+    &lt;id&gt;product-addtocart-button&lt;/id&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Add To Cart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>AddtoCart&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>411</Column1>
+    <Y1>278</Y1>
+    <Width>410</Width>
+    <Height>170</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>14</XMid1>
+    <YMid1>16</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Add To Cart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 19</StepName>
+    <Column1>372</Column1>
+    <Y1>143</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Wait'
+Action Name: Wait Till Page Ready
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>412</XMid1>
+    <YMid1>143</YMid1>
+    <XMid2>452</XMid2>
+    <YMid2>183</YMid2>
+    <XMid3>412</XMid3>
+    <YMid3>223</YMid3>
+    <XMid4>372</XMid4>
+    <YMid4>183</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Wait Till Page Ready&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Wait'</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>451</Column1>
+    <Y1>318</Y1>
+    <Width>551</Width>
+    <Height>264</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>14</XMid1>
+    <YMid1>18</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait'</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR8</StepName>
+    <Column1>411</Column1>
+    <Y1>174</Y1>
+    <Width>459</Width>
+    <Height>71</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>18</XMid1>
+    <YMid1>16</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Add To Cart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR9</StepName>
+    <Column1>411</Column1>
+    <Y1>311</Y1>
+    <Width>412</Width>
+    <Height>223</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>14</XMid1>
+    <YMid1>18</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait'</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 20</StepName>
+    <Column1>519</Column1>
+    <Y1>28</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: blue. Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>559</XMid1>
+    <YMid1>28</YMid1>
+    <XMid2>599</XMid2>
+    <YMid2>68</YMid2>
+    <XMid3>559</XMid3>
+    <YMid3>108</YMid3>
+    <XMid4>519</XMid4>
+    <YMid4>68</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[4]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//div[@aria-label="Blue"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;class&gt;swatch-option color&lt;/class&gt;
+    &lt;id&gt;option-label-color-93-item-50&lt;/id&gt;
+    &lt;index&gt;0&lt;/index&gt;
+    &lt;aria-checked&gt;false&lt;/aria-checked&gt;
+    &lt;aria-describedby&gt;option-label-color-93&lt;/aria-describedby&gt;
+    &lt;tabindex&gt;0&lt;/tabindex&gt;
+    &lt;option-type&gt;1&lt;/option-type&gt;
+    &lt;option-id&gt;50&lt;/option-id&gt;
+    &lt;option-label&gt;Blue&lt;/option-label&gt;
+    &lt;aria-label&gt;Blue&lt;/aria-label&gt;
+    &lt;option-tooltip-thumb /&gt;
+    &lt;option-tooltip-value&gt;#1857f7&lt;/option-tooltip-value&gt;
+    &lt;role&gt;option&lt;/role&gt;
+    &lt;thumb-width&gt;110&lt;/thumb-width&gt;
+    &lt;thumb-height&gt;90&lt;/thumb-height&gt;
+    &lt;style&gt;background: #1857f7 no-repeat center; background-size: initial;&lt;/style&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>purple</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>blue&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR10</StepName>
+    <Column1>412</Column1>
+    <Y1>143</Y1>
+    <Width>519</Width>
+    <Height>68</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>18</XMid1>
+    <YMid1>22</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Yellow</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR11</StepName>
+    <Column1>559</Column1>
+    <Y1>108</Y1>
+    <Width>560</Width>
+    <Height>182</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>22</XMid1>
+    <YMid1>16</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Add To Cart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 26</StepName>
+    <Column1>521</Column1>
+    <Y1>486</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: checkout/cart. Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>561</XMid1>
+    <YMid1>486</YMid1>
+    <XMid2>601</XMid2>
+    <YMid2>526</YMid2>
+    <XMid3>561</XMid3>
+    <YMid3>566</YMid3>
+    <XMid4>521</XMid4>
+    <YMid4>526</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[2]/header[1]/div[2]/div[1]/a[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//a[@href="https://magento.softwaretestingboard.com/checkout/cart/"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;FramePath /&gt;
+    &lt;a_Id&gt;0&lt;/a_Id&gt;
+    &lt;class&gt;action showcart&lt;/class&gt;
+    &lt;href&gt;https://magento.softwaretestingboard.com/checkout/cart/&lt;/href&gt;
+    &lt;data-bind&gt;scope: 'minicart_content'&lt;/data-bind&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>showcart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>showcart&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR12</StepName>
+    <Column1>561</Column1>
+    <Y1>270</Y1>
+    <Width>560</Width>
+    <Height>333</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>16</XMid1>
+    <YMid1>25</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+showcart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 27</StepName>
+    <Column1>521</Column1>
+    <Y1>321</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 6</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  6 Seconds</Expected>
+    <Actual />
+    <XMid1>561</XMid1>
+    <YMid1>321</YMid1>
+    <XMid2>601</XMid2>
+    <YMid2>361</YMid2>
+    <XMid3>561</XMid3>
+    <YMid3>401</YMid3>
+    <XMid4>521</XMid4>
+    <YMid4>361</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>6</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR13</StepName>
+    <Column1>560</Column1>
+    <Y1>262</Y1>
+    <Width>561</Width>
+    <Height>321</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>16</XMid1>
+    <YMid1>27</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR14</StepName>
+    <Column1>561</Column1>
+    <Y1>401</Y1>
+    <Width>561</Width>
+    <Height>486</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>27</XMid1>
+    <YMid1>25</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+showcart</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 28</StepName>
+    <Column1>673</Column1>
+    <Y1>581</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Proceed
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>713</XMid1>
+    <YMid1>581</YMid1>
+    <XMid2>753</XMid2>
+    <YMid2>621</YMid2>
+    <XMid3>713</XMid3>
+    <YMid3>661</YMid3>
+    <XMid4>673</XMid4>
+    <YMid4>621</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/header[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/button[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//button[@id="top-cart-btn-checkout"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;id&gt;top-cart-btn-checkout&lt;/id&gt;
+    &lt;type&gt;button&lt;/type&gt;
+    &lt;class&gt;action primary checkout&lt;/class&gt;
+    &lt;data-action&gt;close&lt;/data-action&gt;
+    &lt;data-bind&gt;
+                            attr: {
+                                title: $t('Proceed to Checkout')
+                            },
+                            click: closeMinicart()
+                        , i18n: 'Proceed to Checkout'&lt;/data-bind&gt;
+    &lt;title&gt;Proceed to Checkout&lt;/title&gt;
+    &lt;button_Text&gt;Proceed to Checkout&lt;/button_Text&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Proceed</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Proceed To checkout&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR15</StepName>
+    <Column1>561</Column1>
+    <Y1>566</Y1>
+    <Width>673</Width>
+    <Height>621</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>25</XMid1>
+    <YMid1>30</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Proceed</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 29</StepName>
+    <Column1>673</Column1>
+    <Y1>239</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web AI Usecase: 
+Text Fields
+Action Name: Enter Input Fields
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>713</XMid1>
+    <YMid1>239</YMid1>
+    <XMid2>753</XMid2>
+    <YMid2>279</YMid2>
+    <XMid3>713</XMid3>
+    <YMid3>319</YMid3>
+    <XMid4>673</XMid4>
+    <YMid4>279</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Enter Input Fields&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBAISCENARIOS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Text Fields</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>ai</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR16</StepName>
+    <Column1>719</Column1>
+    <Y1>534</Y1>
+    <Width>720</Width>
+    <Height>391</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>30</XMid1>
+    <YMid1>32</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Text Fields</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 30</StepName>
+    <Column1>678</Column1>
+    <Y1>356</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+
+Action Name: Wait Till Jquery Stable
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>718</XMid1>
+    <YMid1>356</YMid1>
+    <XMid2>758</XMid2>
+    <YMid2>396</YMid2>
+    <XMid3>718</XMid3>
+    <YMid3>436</YMid3>
+    <XMid4>678</XMid4>
+    <YMid4>396</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Wait Till Jquery Stable&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR17</StepName>
+    <Column1>719</Column1>
+    <Y1>534</Y1>
+    <Width>718</Width>
+    <Height>436</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>30</XMid1>
+    <YMid1>34</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR18</StepName>
+    <Column1>718</Column1>
+    <Y1>356</Y1>
+    <Width>718</Width>
+    <Height>275</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>34</XMid1>
+    <YMid1>32</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Text Fields</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 31</StepName>
+    <Column1>674</Column1>
+    <Y1>390</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 6</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  6 Seconds</Expected>
+    <Actual />
+    <XMid1>714</XMid1>
+    <YMid1>390</YMid1>
+    <XMid2>754</XMid2>
+    <YMid2>430</YMid2>
+    <XMid3>714</XMid3>
+    <YMid3>470</YMid3>
+    <XMid4>674</XMid4>
+    <YMid4>430</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>6</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR19</StepName>
+    <Column1>713</Column1>
+    <Y1>581</Y1>
+    <Width>714</Width>
+    <Height>470</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>30</XMid1>
+    <YMid1>37</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR20</StepName>
+    <Column1>714</Column1>
+    <Y1>390</Y1>
+    <Width>713</Width>
+    <Height>319</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>37</XMid1>
+    <YMid1>32</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Text Fields</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 41</StepName>
+    <Column1>688</Column1>
+    <Y1>90</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>728</XMid1>
+    <YMid1>90</YMid1>
+    <XMid2>768</XMid2>
+    <YMid2>130</YMid2>
+    <XMid3>728</XMid3>
+    <YMid3>170</YMid3>
+    <XMid4>688</XMid4>
+    <YMid4>130</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Enter Input Fields&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBAISCENARIOS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path>ai</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 42</StepName>
+    <Column1>848</Column1>
+    <Y1>34</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Create Object WithValue: Street Address . Identifier: AI</Description>
+    <Expected>
+Create WebObject</Expected>
+    <Actual />
+    <XMid1>888</XMid1>
+    <YMid1>34</YMid1>
+    <XMid2>928</XMid2>
+    <YMid2>74</YMid2>
+    <XMid3>888</XMid3>
+    <YMid3>114</YMid3>
+    <XMid4>848</XMid4>
+    <YMid4>74</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS1}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[4]/ol[1]/li[1]/div[2]/form[2]/div[1]/fieldset[1]/div[1]/div[1]/div[1]/input[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//input[@name="street[0]"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;class&gt;input-text&lt;/class&gt;
+    &lt;type&gt;text&lt;/type&gt;
+    &lt;data-bind&gt;
+    value: value,
+    valueUpdate: 'keyup',
+    hasFocus: focused,
+    attr: {
+        name: inputName,
+        placeholder: placeholder,
+        'aria-describedby': getDescriptionId(),
+        'aria-required': required,
+        'aria-invalid': error() ? true : 'false',
+        id: uid,
+        disabled: disabled
+    }&lt;/data-bind&gt;
+    &lt;name&gt;street[0]&lt;/name&gt;
+    &lt;aria-required&gt;true&lt;/aria-required&gt;
+    &lt;aria-invalid&gt;false&lt;/aria-invalid&gt;
+    &lt;id&gt;HAOYGL0&lt;/id&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Address 1</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Street Address &lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR21</StepName>
+    <Column1>718</Column1>
+    <Y1>195</Y1>
+    <Width>847</Width>
+    <Height>94</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>41</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Address 1</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 43</StepName>
+    <Column1>801</Column1>
+    <Y1>190</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>841</XMid1>
+    <YMid1>190</YMid1>
+    <XMid2>881</XMid2>
+    <YMid2>230</YMid2>
+    <XMid3>841</XMid3>
+    <YMid3>270</YMid3>
+    <XMid4>801</XMid4>
+    <YMid4>230</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS1}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path>Street Address &lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 44</StepName>
+    <Column1>880</Column1>
+    <Y1>209</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Smart Object
+Action Name: EnterText
+Action Value: {:USADDRESS2}</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>920</XMid1>
+    <YMid1>209</YMid1>
+    <XMid2>960</XMid2>
+    <YMid2>249</YMid2>
+    <XMid3>920</XMid3>
+    <YMid3>289</YMid3>
+    <XMid4>880</XMid4>
+    <YMid4>249</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS2}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBINTELLIGENCE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>//input[@name="street[1]"]</ParamID>
+    <DispName>Smart Object</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Object_x0020_Type&gt;input&lt;/Object_x0020_Type&gt;
+    &lt;Search_x0020_Text /&gt;
+    &lt;Direction&gt;Down&lt;/Direction&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR22</StepName>
+    <Column1>888</Column1>
+    <Y1>114</Y1>
+    <Width>889</Width>
+    <Height>209</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>41</XMid1>
+    <YMid1>44</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Smart Object</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 45</StepName>
+    <Column1>881</Column1>
+    <Y1>365</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Flat Rate
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>921</XMid1>
+    <YMid1>365</YMid1>
+    <XMid2>961</XMid2>
+    <YMid2>405</YMid2>
+    <XMid3>921</XMid3>
+    <YMid3>445</YMid3>
+    <XMid4>881</XMid4>
+    <YMid4>405</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[4]/ol[1]/li[2]/div[1]/div[3]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/input[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//input[@name="ko_unique_3"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;type&gt;radio&lt;/type&gt;
+    &lt;class&gt;radio&lt;/class&gt;
+    &lt;data-bind&gt;attr: {'aria-labelledby': 'label_method_' + method.method_code + '_' + method.carrier_code + ' ' + 'label_carrier_' + method.method_code + '_' + method.carrier_code,
+                    'checked': element.rates().length == 1 || element.isSelected}, value: method.carrier_code + '_' + method.method_code, checked: element.isSelected&lt;/data-bind&gt;
+    &lt;aria-labelledby&gt;label_method_flatrate_flatrate label_carrier_flatrate_flatrate&lt;/aria-labelledby&gt;
+    &lt;value&gt;flatrate_flatrate&lt;/value&gt;
+    &lt;name&gt;ko_unique_3&lt;/name&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Flat Rate</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Flat Rate&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR23</StepName>
+    <Column1>920</Column1>
+    <Y1>289</Y1>
+    <Width>921</Width>
+    <Height>365</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>44</XMid1>
+    <YMid1>46</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Flat Rate</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 46</StepName>
+    <Column1>880</Column1>
+    <Y1>539</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Next
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>920</XMid1>
+    <YMid1>539</YMid1>
+    <XMid2>960</XMid2>
+    <YMid2>579</YMid2>
+    <XMid3>920</XMid3>
+    <YMid3>619</YMid3>
+    <XMid4>880</XMid4>
+    <YMid4>579</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[4]/ol[1]/li[2]/div[1]/div[3]/form[1]/div[3]/div[1]/button[1]/span[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//span[normalize-space()="Next"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;data-bind&gt;i18n: 'Next'&lt;/data-bind&gt;
+    &lt;span_Text&gt;Next&lt;/span_Text&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Next</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Next&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR24</StepName>
+    <Column1>921</Column1>
+    <Y1>445</Y1>
+    <Width>920</Width>
+    <Height>539</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>46</XMid1>
+    <YMid1>48</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Next</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 47</StepName>
+    <Column1>1061</Column1>
+    <Y1>403</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Place Order
+Action Name: Click
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>1101</XMid1>
+    <YMid1>403</YMid1>
+    <XMid2>1141</XMid2>
+    <YMid2>443</YMid2>
+    <XMid3>1101</XMid3>
+    <YMid3>483</YMid3>
+    <XMid4>1061</XMid4>
+    <YMid4>443</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[3]/main[1]/div[2]/div[1]/div[2]/div[4]/ol[1]/li[3]/div[1]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[4]/div[1]/button[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//button[@title="Place Order"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;button_Id&gt;0&lt;/button_Id&gt;
+    &lt;class&gt;action primary checkout&lt;/class&gt;
+    &lt;type&gt;submit&lt;/type&gt;
+    &lt;data-bind&gt;
+                        click: placeOrder,
+                        attr: {title: $t('Place Order')},
+                        css: {disabled: !isPlaceOrderActionAllowed()},
+                        enable: (getCode() == isChecked())
+                        &lt;/data-bind&gt;
+    &lt;title&gt;Place Order&lt;/title&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Place Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Place Order&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR25</StepName>
+    <Column1>928</Column1>
+    <Y1>571</Y1>
+    <Width>1109</Width>
+    <Height>513</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>50</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Place Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 48</StepName>
+    <Column1>1060</Column1>
+    <Y1>438</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 3</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  3 Seconds</Expected>
+    <Actual />
+    <XMid1>1100</XMid1>
+    <YMid1>438</YMid1>
+    <XMid2>1140</XMid2>
+    <YMid2>478</YMid2>
+    <XMid3>1100</XMid3>
+    <YMid3>518</YMid3>
+    <XMid4>1060</XMid4>
+    <YMid4>478</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>3</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR26</StepName>
+    <Column1>928</Column1>
+    <Y1>572</Y1>
+    <Width>1100</Width>
+    <Height>518</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>52</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR27</StepName>
+    <Column1>1100</Column1>
+    <Y1>438</Y1>
+    <Width>1100</Width>
+    <Height>355</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>52</XMid1>
+    <YMid1>50</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Place Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 49</StepName>
+    <Column1>1235</Column1>
+    <Y1>17</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Magento
+Action Name: Browser Snapshot
+Action Value: c:\km\magentofull.png</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>1275</XMid1>
+    <YMid1>17</YMid1>
+    <XMid2>1315</XMid2>
+    <YMid2>57</YMid2>
+    <XMid3>1275</XMid3>
+    <YMid3>97</YMid3>
+    <XMid4>1235</XMid4>
+    <YMid4>57</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Browser Snapshot&lt;/Action&gt;
+    &lt;Value&gt;c:\km\magentofull.png&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Magento</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR28</StepName>
+    <Column1>1100</Column1>
+    <Y1>275</Y1>
+    <Width>1237</Width>
+    <Height>134</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>50</XMid1>
+    <YMid1>55</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Magento</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 50</StepName>
+    <Column1>1410</Column1>
+    <Y1>413</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1450</XMid1>
+    <YMid1>413</YMid1>
+    <XMid2>1490</XMid2>
+    <YMid2>453</YMid2>
+    <XMid3>1450</XMid3>
+    <YMid3>493</YMid3>
+    <XMid4>1410</XMid4>
+    <YMid4>453</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WEBCLOSE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR29</StepName>
+    <Column1>1315</Column1>
+    <Y1>57</Y1>
+    <Width>1459</Width>
+    <Height>195</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>55</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR30</StepName>
+    <Column1>1450</Column1>
+    <Y1>493</Y1>
+    <Width>1451</Width>
+    <Height>598</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>57</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+End</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 61</StepName>
+    <Column1>1061</Column1>
+    <Y1>197</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 3</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  3 Seconds</Expected>
+    <Actual />
+    <XMid1>1101</XMid1>
+    <YMid1>197</YMid1>
+    <XMid2>1141</XMid2>
+    <YMid2>237</YMid2>
+    <XMid3>1101</XMid3>
+    <YMid3>277</YMid3>
+    <XMid4>1061</XMid4>
+    <YMid4>237</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>3</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR31</StepName>
+    <Column1>1101</Column1>
+    <Y1>403</Y1>
+    <Width>1101</Width>
+    <Height>277</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>50</XMid1>
+    <YMid1>60</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Wait</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR32</StepName>
+    <Column1>1101</Column1>
+    <Y1>197</Y1>
+    <Width>1235</Width>
+    <Height>57</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>60</XMid1>
+    <YMid1>55</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Magento</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 62</StepName>
+    <Column1>1417</Column1>
+    <Y1>118</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Order
+Action Name: GetText
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual>OrderNumber</Actual>
+    <XMid1>1457</XMid1>
+    <YMid1>118</YMid1>
+    <XMid2>1497</XMid2>
+    <YMid2>158</YMid2>
+    <XMid3>1457</XMid3>
+    <YMid3>198</YMid3>
+    <XMid4>1417</XMid4>
+    <YMid4>158</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;GetText&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBINTELLIGENCE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Object_x0020_Type&gt;span&lt;/Object_x0020_Type&gt;
+    &lt;Search_x0020_Text&gt;Your order # &lt;/Search_x0020_Text&gt;
+    &lt;Direction&gt;Near&lt;/Direction&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR33</StepName>
+    <Column1>1315</Column1>
+    <Y1>57</Y1>
+    <Width>1457</Width>
+    <Height>118</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>55</XMid1>
+    <YMid1>63</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR34</StepName>
+    <Column1>1457</Column1>
+    <Y1>198</Y1>
+    <Width>1458</Width>
+    <Height>318</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>63</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 63</StepName>
+    <Column1>1418</Column1>
+    <Y1>116</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Order
+Action Name: GetText
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual>OrderNumber</Actual>
+    <XMid1>1458</XMid1>
+    <YMid1>116</YMid1>
+    <XMid2>1498</XMid2>
+    <YMid2>156</YMid2>
+    <XMid3>1458</XMid3>
+    <YMid3>196</YMid3>
+    <XMid4>1418</XMid4>
+    <YMid4>156</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;GetText&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;//html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[2]/p[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//p[normalize-space()="Your order # is: 000015822."]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;span&gt;000015822&lt;/span&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Your order # is: &lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR35</StepName>
+    <Column1>1315</Column1>
+    <Y1>57</Y1>
+    <Width>1458</Width>
+    <Height>116</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>55</XMid1>
+    <YMid1>66</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR36</StepName>
+    <Column1>1458</Column1>
+    <Y1>196</Y1>
+    <Width>1457</Width>
+    <Height>317</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>66</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 64</StepName>
+    <Column1>1702</Column1>
+    <Y1>201</Y1>
+    <Width>96</Width>
+    <Height>59</Height>
+    <Description>This Step Will Perform String Function: Extract Number on Parameter: OrderNumber</Description>
+    <Expected>String Functions Is Successful</Expected>
+    <Actual>OrderNumber</Actual>
+    <XMid1>1750</XMid1>
+    <YMid1>201</YMid1>
+    <XMid2>1798</XMid2>
+    <YMid2>230</YMid2>
+    <XMid3>1750</XMid3>
+    <YMid3>260</YMid3>
+    <XMid4>1702</XMid4>
+    <YMid4>230</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PARAMETER_x0020_NAME&gt;OrderNumber&lt;/PARAMETER_x0020_NAME&gt;
+    &lt;FUNCTION_x0020_NAME&gt;Extract Number&lt;/FUNCTION_x0020_NAME&gt;
+    &lt;CHARACTER /&gt;
+    &lt;LENGTH /&gt;
+    &lt;START /&gt;
+    &lt;CONTAINS /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>STRINGFUNCTIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>string Manipulation</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>OrderNumber</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR37</StepName>
+    <Column1>1498</Column1>
+    <Y1>156</Y1>
+    <Width>1750</Width>
+    <Height>201</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>66</XMid1>
+    <YMid1>69</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+string Manipulation</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR38</StepName>
+    <Column1>1648</Column1>
+    <Y1>279</Y1>
+    <Width>1497</Width>
+    <Height>357</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>69</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 65</StepName>
+    <Column1>1225</Column1>
+    <Y1>201</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>This Step Will Perform String Function: Replace on Parameter: OrderNumber</Description>
+    <Expected>String Functions Is Successful</Expected>
+    <Actual />
+    <XMid1>1265</XMid1>
+    <YMid1>201</YMid1>
+    <XMid2>1305</XMid2>
+    <YMid2>241</YMid2>
+    <XMid3>1265</XMid3>
+    <YMid3>281</YMid3>
+    <XMid4>1225</XMid4>
+    <YMid4>241</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;PARAMETER_x0020_NAME&gt;OrderNumber&lt;/PARAMETER_x0020_NAME&gt;
+    &lt;FUNCTION_x0020_NAME&gt;Replace&lt;/FUNCTION_x0020_NAME&gt;
+    &lt;CHARACTER&gt;.&lt;/CHARACTER&gt;
+    &lt;LENGTH /&gt;
+    &lt;START /&gt;
+    &lt;CONTAINS /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>STRINGFUNCTIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Replace</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>OrderNumber</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR39</StepName>
+    <Column1>1702</Column1>
+    <Y1>241</Y1>
+    <Width>1305</Width>
+    <Height>241</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>69</XMid1>
+    <YMid1>72</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Replace</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR40</StepName>
+    <Column1>1265</Column1>
+    <Y1>281</Y1>
+    <Width>1417</Width>
+    <Height>357</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>72</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR41</StepName>
+    <Column1>1702</Column1>
+    <Y1>230</Y1>
+    <Width>1457</Width>
+    <Height>317</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>69</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 76</StepName>
+    <Column1>273</Column1>
+    <Y1>60</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>313</XMid1>
+    <YMid1>60</YMid1>
+    <XMid2>353</XMid2>
+    <YMid2>100</YMid2>
+    <XMid3>313</XMid3>
+    <YMid3>140</YMid3>
+    <XMid4>273</XMid4>
+    <YMid4>100</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Click&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path>Radiant Tee&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 77</StepName>
+    <Column1>679</Column1>
+    <Y1>111</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Deley Function: 
+Wait For Seconds: 2</Description>
+    <Expected>
+Expected Result: 
+System Should Be Idle For  2 Seconds</Expected>
+    <Actual />
+    <XMid1>719</XMid1>
+    <YMid1>111</YMid1>
+    <XMid2>759</XMid2>
+    <YMid2>151</YMid2>
+    <XMid3>719</XMid3>
+    <YMid3>191</YMid3>
+    <XMid4>679</XMid4>
+    <YMid4>151</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WAITTIME</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Skip</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Delay</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>2</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR42</StepName>
+    <Column1>719</Column1>
+    <Y1>254</Y1>
+    <Width>719</Width>
+    <Height>191</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>77</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Delay</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR43</StepName>
+    <Column1>757</Column1>
+    <Y1>93</Y1>
+    <Width>846</Width>
+    <Height>34</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>77</XMid1>
+    <YMid1>41</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Address 1</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR44</StepName>
+    <Column1>719</Column1>
+    <Y1>111</Y1>
+    <Width>848</Width>
+    <Height>73</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>77</XMid1>
+    <YMid1>41</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Address 1</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 82</StepName>
+    <Column1>8</Column1>
+    <Y1>533</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web AI Usecase: 
+Search
+Action Name: Search On The Site
+Action Value: Radiant Tee</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>533</YMid1>
+    <XMid2>88</XMid2>
+    <YMid2>573</YMid2>
+    <XMid3>48</XMid3>
+    <YMid3>613</YMid3>
+    <XMid4>8</XMid4>
+    <YMid4>573</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Search On The Site&lt;/Action&gt;
+    &lt;Value&gt;Radiant Tee&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBAISCENARIOS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Search</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR45</StepName>
+    <Column1>212</Column1>
+    <Y1>635</Y1>
+    <Width>276</Width>
+    <Height>737</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>81</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Search</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR46</StepName>
+    <Column1>88</Column1>
+    <Y1>573</Y1>
+    <Width>410</Width>
+    <Height>545</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>81</XMid1>
+    <YMid1>11</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Radiant Tee</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR47</StepName>
+    <Column1>48</Column1>
+    <Y1>400</Y1>
+    <Width>48</Width>
+    <Height>533</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>81</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock />
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Search</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR48</StepName>
+    <Column1>88</Column1>
+    <Y1>573</Y1>
+    <Width>410</Width>
+    <Height>546</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>81</XMid1>
+    <YMid1>11</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Radiant Tee</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR49</StepName>
+    <Column1>960</Column1>
+    <Y1>579</Y1>
+    <Width>1101</Width>
+    <Height>483</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>48</XMid1>
+    <YMid1>50</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Place Order</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR50</StepName>
+    <Column1>719</Column1>
+    <Y1>254</Y1>
+    <Width>848</Width>
+    <Height>74</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>41</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Address 1</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 89</StepName>
+    <Column1>753</Column1>
+    <Y1>0</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Street Address
+Action Name: EnterText
+Action Value: {:USADDRESS1}</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>793</XMid1>
+    <YMid1>0</YMid1>
+    <XMid2>833</XMid2>
+    <YMid2>40</YMid2>
+    <XMid3>793</XMid3>
+    <YMid3>80</YMid3>
+    <XMid4>753</XMid4>
+    <YMid4>40</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS1}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBINTELLIGENCE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>//input[@name="street[0]"]</ParamID>
+    <DispName>Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Object_x0020_Type&gt;input&lt;/Object_x0020_Type&gt;
+    &lt;Search_x0020_Text&gt;Street Address&lt;/Search_x0020_Text&gt;
+    &lt;Direction&gt;Levenshtein Algorithm&lt;/Direction&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR51</StepName>
+    <Column1>680</Column1>
+    <Y1>241</Y1>
+    <Width>768</Width>
+    <Height>56</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>88</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR52</StepName>
+    <Column1>833</Column1>
+    <Y1>40</Y1>
+    <Width>920</Width>
+    <Height>209</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>88</XMid1>
+    <YMid1>44</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Smart Object</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 92</StepName>
+    <Column1>757</Column1>
+    <Y1>101</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Street Address
+Action Name: EnterText
+Action Value: {:USADDRESS1}</Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>797</XMid1>
+    <YMid1>101</YMid1>
+    <XMid2>837</XMid2>
+    <YMid2>141</YMid2>
+    <XMid3>797</XMid3>
+    <YMid3>181</YMid3>
+    <XMid4>757</XMid4>
+    <YMid4>141</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS1}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Street Address&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR53</StepName>
+    <Column1>680</Column1>
+    <Y1>241</Y1>
+    <Width>757</Width>
+    <Height>141</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>91</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR54</StepName>
+    <Column1>837</Column1>
+    <Y1>141</Y1>
+    <Width>920</Width>
+    <Height>209</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>91</XMid1>
+    <YMid1>44</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Smart Object</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 93</StepName>
+    <Column1>767</Column1>
+    <Y1>90</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>807</XMid1>
+    <YMid1>90</YMid1>
+    <XMid2>847</XMid2>
+    <YMid2>130</YMid2>
+    <XMid3>807</XMid3>
+    <YMid3>170</YMid3>
+    <XMid4>767</XMid4>
+    <YMid4>130</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName />
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 96</StepName>
+    <Column1>783</Column1>
+    <Y1>43</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>823</XMid1>
+    <YMid1>43</YMid1>
+    <XMid2>863</XMid2>
+    <YMid2>83</YMid2>
+    <XMid3>823</XMid3>
+    <YMid3>123</YMid3>
+    <XMid4>783</XMid4>
+    <YMid4>83</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;EnterText&lt;/Action&gt;
+    &lt;Value&gt;{:USADDRESS1}&lt;/Value&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>WEBCREATE</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>&lt;NewDataSet&gt;
+  &lt;Parameters&gt;
+    &lt;Xpath&gt;/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[4]/ol[1]/li[1]/div[2]/form[2]/div[1]/fieldset[1]/div[1]/div[1]/div[1]/input[1]&lt;/Xpath&gt;
+    &lt;RefXpath&gt;//input[@name="street[0]"]&lt;/RefXpath&gt;
+    &lt;Add_x0020_Id&gt;Yes&lt;/Add_x0020_Id&gt;
+    &lt;Tags /&gt;
+    &lt;class&gt;input-text&lt;/class&gt;
+    &lt;type&gt;text&lt;/type&gt;
+    &lt;data-bind&gt;
+    value: value,
+    valueUpdate: 'keyup',
+    hasFocus: focused,
+    attr: {
+        name: inputName,
+        placeholder: placeholder,
+        'aria-describedby': getDescriptionId(),
+        'aria-required': required,
+        'aria-invalid': error() ? true : 'false',
+        id: uid,
+        disabled: disabled
+    }&lt;/data-bind&gt;
+    &lt;name&gt;street[0]&lt;/name&gt;
+    &lt;aria-required&gt;true&lt;/aria-required&gt;
+    &lt;aria-invalid&gt;false&lt;/aria-invalid&gt;
+    &lt;id&gt;CIY0DIA&lt;/id&gt;
+  &lt;/Parameters&gt;
+&lt;/NewDataSet&gt;</ParamID>
+    <DispName>Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path>Street Address&lt;&lt;&gt;&gt;AI</File_x0020_Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR55</StepName>
+    <Column1>713</Column1>
+    <Y1>239</Y1>
+    <Width>783</Width>
+    <Height>83</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>32</XMid1>
+    <YMid1>95</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Street Address</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR56</StepName>
+    <Column1>863</Column1>
+    <Y1>83</Y1>
+    <Width>920</Width>
+    <Height>209</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>95</XMid1>
+    <YMid1>44</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>EL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Smart Object</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 99</StepName>
+    <Column1>1711</Column1>
+    <Y1>376</Y1>
+    <Width>80</Width>
+    <Height>80</Height>
+    <Description>Web Element: 
+Browser Action
+Action Name: Browser Metrics
+Action Value: </Description>
+    <Expected>
+Expected Result: 
+Not Entered</Expected>
+    <Actual />
+    <XMid1>1751</XMid1>
+    <YMid1>376</YMid1>
+    <XMid2>1791</XMid2>
+    <YMid2>416</YMid2>
+    <XMid3>1751</XMid3>
+    <YMid3>456</YMid3>
+    <XMid4>1711</XMid4>
+    <YMid4>416</YMid4>
+    <YesBlock />
+    <NoBlock>&lt;NewDataSet&gt;
+  &lt;Table1&gt;
+    &lt;Action&gt;Browser Metrics&lt;/Action&gt;
+    &lt;Value /&gt;
+  &lt;/Table1&gt;
+&lt;/NewDataSet&gt;</NoBlock>
+    <AnyBlock>BROWSEROPERATIONS</AnyBlock>
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Browser Action</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR57</StepName>
+    <Column1>1751</Column1>
+    <Y1>376</Y1>
+    <Width>1450</Width>
+    <Height>413</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>98</XMid1>
+    <YMid1>57</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>UL1</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Close</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR58</StepName>
+    <Column1>1798</Column1>
+    <Y1>230</Y1>
+    <Width>1791</Width>
+    <Height>416</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>69</XMid1>
+    <YMid1>98</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock>PASS</NoBlock>
+    <AnyBlock>UL3</AnyBlock>
+    <BlockType>Any</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID />
+    <DispName>Entering: 
+Browser Action</DispName>
+    <Path>0</Path>
+    <File_x0020_Path />
+  </MainData>
+</NewDataSet>
