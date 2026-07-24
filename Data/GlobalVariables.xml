@@ -1,1 +1,10 @@
-
+<NewDataSet>
+  <Table1>
+    <PNAME>URLVALUE</PNAME>
+    <PVALUE>https://petstore.octoperf.com/actions/Catalog.action</PVALUE>
+  </Table1>
+  <Table1>
+    <PNAME>TESTREPORTTYPE</PNAME>
+    <PVALUE>EXTENT</PVALUE>
+  </Table1>
+</NewDataSet>
