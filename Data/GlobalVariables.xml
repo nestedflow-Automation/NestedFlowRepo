@@ -1,0 +1,10 @@
+<NewDataSet>
+  <Table1>
+    <PNAME>BROWSERTYPE</PNAME>
+    <PVALUE>CHROME</PVALUE>
+  </Table1>
+  <Table1>
+    <PNAME>GLOBALSOURCE</PNAME>
+    <PVALUE>GITHUB</PVALUE>
+  </Table1>
+</NewDataSet>
